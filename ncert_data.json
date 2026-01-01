@@ -1,0 +1,2691 @@
+
+{
+  "class5": {
+    "english": {
+      "unit1": {
+        "poem": {
+          "title": "Ice-cream Man",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen101.pdf",
+          "videoId": "VIDEO_ID_ICECREAM_MAN",
+          "solution": "Explanation, theme, and question answers of the poem Ice-cream Man."
+        },
+        "prose": {
+          "title": "Wonderful Waste!",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen101.pdf",
+          "videoId": "VIDEO_ID_WONDERFUL_WASTE",
+          "solution": "Summary, moral, and questions of Wonderful Waste!"
+        }
+      },
+
+      "unit2": {
+        "poem": {
+          "title": "Teamwork",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen102.pdf",
+          "videoId": "VIDEO_ID_TEAMWORK",
+          "solution": "Explanation of the poem Teamwork with examples."
+        },
+        "prose": {
+          "title": "Flying Together",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen102.pdf",
+          "videoId": "VIDEO_ID_FLYING_TOGETHER",
+          "solution": "Story explanation and moral of Flying Together."
+        }
+      },
+
+      "unit3": {
+        "poem": {
+          "title": "My Shadow",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen103.pdf",
+          "videoId": "VIDEO_ID_MY_SHADOW",
+          "solution": "Poem meaning and child-friendly explanation."
+        },
+        "prose": {
+          "title": "Robinson Crusoe",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen103.pdf",
+          "videoId": "VIDEO_ID_ROBINSON_CRUSOE",
+          "solution": "Summary and character explanation of Robinson Crusoe."
+        }
+      },
+
+      "unit4": {
+        "poem": {
+          "title": "Crying",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen104.pdf",
+          "videoId": "VIDEO_ID_CRYING",
+          "solution": "Explanation of emotions expressed in the poem Crying."
+        },
+        "prose": {
+          "title": "My Elder Brother",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen104.pdf",
+          "videoId": "VIDEO_ID_MY_ELDER_BROTHER",
+          "solution": "Story explanation and key lessons."
+        }
+      },
+
+      "unit5": {
+        "poem": {
+          "title": "The Lazy Frog",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen105.pdf",
+          "videoId": "VIDEO_ID_LAZY_FROG",
+          "solution": "Poem explanation with moral lesson."
+        },
+        "prose": {
+          "title": "Rip Van Winkle",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen105.pdf",
+          "videoId": "VIDEO_ID_RIP_VAN_WINKLE",
+          "solution": "Story summary and main idea."
+        }
+      },
+
+      "unit6": {
+        "poem": {
+          "title": "Class Discussion",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen106.pdf",
+          "videoId": "VIDEO_ID_CLASS_DISCUSSION",
+          "solution": "Poem explanation and meaning."
+        },
+        "prose": {
+          "title": "The Talkative Barber",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen106.pdf",
+          "videoId": "VIDEO_ID_TALKATIVE_BARBER",
+          "solution": "Story explanation and humor elements."
+        }
+      },
+
+      "unit7": {
+        "poem": {
+          "title": "Topsy-Turvy Land",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen107.pdf",
+          "videoId": "VIDEO_ID_TOPSY_TURVY",
+          "solution": "Imaginative explanation of the poem."
+        },
+        "prose": {
+          "title": "Gulliver’s Travels",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen107.pdf",
+          "videoId": "VIDEO_ID_GULLIVERS_TRAVELS",
+          "solution": "Summary and important points."
+        }
+      },
+
+      "unit8": {
+        "poem": {
+          "title": "Nobody’s Friend",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen108.pdf",
+          "videoId": "VIDEO_ID_NOBODYS_FRIEND",
+          "solution": "Poem explanation with life lessons."
+        },
+        "prose": {
+          "title": "The Little Bully",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen108.pdf",
+          "videoId": "VIDEO_ID_LITTLE_BULLY",
+          "solution": "Story explanation and moral."
+        }
+      },
+
+      "unit9": {
+        "poem": {
+          "title": "Sing a Song of People",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen109.pdf",
+          "videoId": "VIDEO_ID_SONG_OF_PEOPLE",
+          "solution": "Explanation of the poem with examples."
+        },
+        "prose": {
+          "title": "Around the World",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen109.pdf",
+          "videoId": "VIDEO_ID_AROUND_WORLD",
+          "solution": "Story summary and key learning points."
+        }
+      },
+
+      "unit10": {
+        "poem": {
+          "title": "Malu Bhalu",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen110.pdf",
+          "videoId": "VIDEO_ID_MALU_BHALU",
+          "solution": "Poem explanation and theme."
+        },
+        "prose": {
+          "title": "Who Will Be Ningthou?",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen110.pdf",
+          "videoId": "VIDEO_ID_NINGTHOU",
+          "solution": "Story explanation and values taught."
+        }
+      }
+    },
+    "hindi": {
+      "chapter1": {
+        "chapterNo": 1,
+        "title": "राख की रस्सी",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn101.pdf",
+        "videoId": "VIDEO_ID_RAKH_KI_RASSI",
+        "solution": "पाठ का सार, शब्दार्थ और प्रश्न-उत्तर।"
+      },
+      "chapter2": {
+        "chapterNo": 2,
+        "title": "फसलों के त्योहार",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn102.pdf",
+        "videoId": "VIDEO_ID_FASLON_KE_TYOHAR",
+        "solution": "पाठ का सरल वर्णन और मुख्य बिंदु।"
+      },
+      "chapter3": {
+        "chapterNo": 3,
+        "title": "खिलौनेवाला",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn103.pdf",
+        "videoId": "VIDEO_ID_KHILAUNEWALA",
+        "solution": "कविता का भावार्थ और प्रश्न-उत्तर।"
+      },
+      "chapter4": {
+        "chapterNo": 4,
+        "title": "नन्हा फनकार",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn104.pdf",
+        "videoId": "VIDEO_ID_NANHA_FANKAR",
+        "solution": "कहानी का सार और सीख।"
+      },
+      "chapter5": {
+        "chapterNo": 5,
+        "title": "जहाँ चाह वहाँ राह",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn105.pdf",
+        "videoId": "VIDEO_ID_JAHAN_CHAH",
+        "solution": "पाठ की व्याख्या और नैतिक शिक्षा।"
+      },
+      "chapter6": {
+        "chapterNo": 6,
+        "title": "चिट्ठी का सफर",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn106.pdf",
+        "videoId": "VIDEO_ID_CHITTHI_KA_SAFAR",
+        "solution": "डाक व्यवस्था की जानकारी और सार।"
+      },
+      "chapter7": {
+        "chapterNo": 7,
+        "title": "डाकिये की कहानी, कँवरसिंह की जुबानी",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn107.pdf",
+        "videoId": "VIDEO_ID_DAKIYE_KI_KAHANI",
+        "solution": "पाठ का भाव और मुख्य संदेश।"
+      },
+      "chapter8": {
+        "chapterNo": 8,
+        "title": "वे दिन भी क्या दिन थे",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn108.pdf",
+        "videoId": "VIDEO_ID_WE_DIN",
+        "solution": "पुराने समय की जीवनशैली का वर्णन।"
+      },
+      "chapter9": {
+        "chapterNo": 9,
+        "title": "एक माँ की बेबसी",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn109.pdf",
+        "videoId": "VIDEO_ID_EK_MAA",
+        "solution": "माँ की भावना और सामाजिक संदेश।"
+      },
+      "chapter10": {
+        "chapterNo": 10,
+        "title": "एक दिन की बादशाहत",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn110.pdf",
+        "videoId": "VIDEO_ID_BADSHAHAT",
+        "solution": "कहानी का सार और बच्चों के लिए संदेश।"
+      },
+      "chapter11": {
+        "chapterNo": 11,
+        "title": "चावल की रोटियाँ",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn111.pdf",
+        "videoId": "VIDEO_ID_CHAWAL_ROTI",
+        "solution": "लोककथा का सरल वर्णन।"
+      },
+      "chapter12": {
+        "chapterNo": 12,
+        "title": "गुरु और चेला",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn112.pdf",
+        "videoId": "VIDEO_ID_GURU_CHELA",
+        "solution": "कहानी की सीख और व्याख्या।"
+      },
+      "chapter13": {
+        "chapterNo": 13,
+        "title": "स्वामी की दादी",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn113.pdf",
+        "videoId": "VIDEO_ID_SWAMI_DADI",
+        "solution": "दादी और बच्चे के रिश्ते का वर्णन।"
+      },
+      "chapter14": {
+        "chapterNo": 14,
+        "title": "बाघ आया उस रात",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn114.pdf",
+        "videoId": "VIDEO_ID_BAGH_AAYA",
+        "solution": "कहानी का सार और रोमांच।"
+      },
+      "chapter15": {
+        "chapterNo": 15,
+        "title": "बिशन की दिलेरी",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn115.pdf",
+        "videoId": "VIDEO_ID_BISHAN_DILER",
+        "solution": "साहस और आत्मविश्वास की कहानी।"
+      },
+      "chapter16": {
+        "chapterNo": 16,
+        "title": "पानी रे पानी",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn116.pdf",
+        "videoId": "VIDEO_ID_PANI_RE",
+        "solution": "जल संरक्षण का महत्व।"
+      },
+      "chapter17": {
+        "chapterNo": 17,
+        "title": "छोटा सा परिवार",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn117.pdf",
+        "videoId": "VIDEO_ID_CHOTA_PARIVAR",
+        "solution": "छोटे परिवार की आवश्यकता।"
+      },
+      "chapter18": {
+        "chapterNo": 18,
+        "title": "चुनौती हिमालय की",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/ehhn118.pdf",
+        "videoId": "VIDEO_ID_HIMALAYA",
+        "solution": "हिमालय और साहसिक भावना का वर्णन।"
+      }
+    },
+    "maths": {
+      "chapter1": {
+        "chapterNo": 1,
+        "title": "The Fish Tale",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh101.pdf",
+        "videoId": "VIDEO_ID_FISH_TALE",
+        "solution": "Explanation of numbers using real-life examples."
+      },
+      "chapter2": {
+        "chapterNo": 2,
+        "title": "Shapes and Angles",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh102.pdf",
+        "videoId": "VIDEO_ID_SHAPES",
+        "solution": "Explanation of basic shapes and angles."
+      },
+      "chapter3": {
+        "chapterNo": 3,
+        "title": "How Many Squares?",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh103.pdf",
+        "videoId": "VIDEO_ID_SQUARES",
+        "solution": "Counting squares using logic and patterns."
+      },
+      "chapter4": {
+        "chapterNo": 4,
+        "title": "Parts and Wholes",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh104.pdf",
+        "videoId": "VIDEO_ID_PARTS",
+        "solution": "Understanding fractions and parts."
+      },
+      "chapter5": {
+        "chapterNo": 5,
+        "title": "Does it Look the Same?",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh105.pdf",
+        "videoId": "VIDEO_ID_LOOK_SAME",
+        "solution": "Symmetry and mirror images."
+      },
+      "chapter6": {
+        "chapterNo": 6,
+        "title": "Be My Multiple, I'll be Your Factor",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh106.pdf",
+        "videoId": "VIDEO_ID_MULTIPLE",
+        "solution": "Factors and multiples explained."
+      },
+      "chapter7": {
+        "chapterNo": 7,
+        "title": "Can You See the Pattern?",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh107.pdf",
+        "videoId": "VIDEO_ID_PATTERN",
+        "solution": "Number and shape patterns."
+      },
+      "chapter8": {
+        "chapterNo": 8,
+        "title": "Mapping Your Way",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh108.pdf",
+        "videoId": "VIDEO_ID_MAPPING",
+        "solution": "Maps, directions, and distance."
+      },
+      "chapter9": {
+        "chapterNo": 9,
+        "title": "Boxes and Sketches",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh109.pdf",
+        "videoId": "VIDEO_ID_BOXES",
+        "solution": "3D objects and drawings."
+      },
+      "chapter10": {
+        "chapterNo": 10,
+        "title": "Tenths and Hundredths",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh110.pdf",
+        "videoId": "VIDEO_ID_DECIMALS",
+        "solution": "Decimals explained clearly."
+      },
+      "chapter11": {
+        "chapterNo": 11,
+        "title": "Area and its Boundary",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh111.pdf",
+        "videoId": "VIDEO_ID_AREA",
+        "solution": "Perimeter and area concepts."
+      },
+      "chapter12": {
+        "chapterNo": 12,
+        "title": "Smart Charts",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh112.pdf",
+        "videoId": "VIDEO_ID_CHARTS",
+        "solution": "Understanding data through charts."
+      },
+      "chapter13": {
+        "chapterNo": 13,
+        "title": "Ways to Multiply and Divide",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh113.pdf",
+        "videoId": "VIDEO_ID_MULTIPLY",
+        "solution": "Easy multiplication and division methods."
+      },
+      "chapter14": {
+        "chapterNo": 14,
+        "title": "How Big? How Heavy?",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh114.pdf",
+        "videoId": "VIDEO_ID_WEIGHT",
+        "solution": "Measurement of weight and volume."
+      }
+    },
+    "evs": {
+      "chapter1": {
+        "chapterNo": 1,
+        "title": "Super Senses",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs101.pdf",
+        "videoId": "VIDEO_ID_SUPER_SENSES",
+        "solution": "Animals and humans use senses differently."
+      },
+      "chapter2": {
+        "chapterNo": 2,
+        "title": "A Snake Charmer’s Story",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs102.pdf",
+        "videoId": "VIDEO_ID_SNAKE",
+        "solution": "Life of snake charmers."
+      },
+      "chapter3": {
+        "chapterNo": 3,
+        "title": "From Tasting to Digesting",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs103.pdf",
+        "videoId": "VIDEO_ID_DIGESTING",
+        "solution": "Digestive system explained."
+      },
+      "chapter4": {
+        "chapterNo": 4,
+        "title": "Mangoes Round the Year",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs104.pdf",
+        "videoId": "VIDEO_ID_MANGO",
+        "solution": "Food preservation methods."
+      },
+      "chapter5": {
+        "chapterNo": 5,
+        "title": "Seeds and Seeds",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs105.pdf",
+        "videoId": "VIDEO_ID_SEEDS",
+        "solution": "Seed diversity and growth."
+      },
+      "chapter6": {
+        "chapterNo": 6,
+        "title": "Every Drop Counts",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs106.pdf",
+        "videoId": "VIDEO_ID_WATER",
+        "solution": "Water conservation importance."
+      },
+      "chapter7": {
+        "chapterNo": 7,
+        "title": "Experiments with Water",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs107.pdf",
+        "videoId": "VIDEO_ID_WATER_EXP",
+        "solution": "Water absorption and properties."
+      },
+      "chapter8": {
+        "chapterNo": 8,
+        "title": "A Treat for Mosquitoes",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs108.pdf",
+        "videoId": "VIDEO_ID_MOSQUITO",
+        "solution": "Mosquito breeding and prevention."
+      },
+      "chapter9": {
+        "chapterNo": 9,
+        "title": "Up You Go!",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs109.pdf",
+        "videoId": "VIDEO_ID_UP_YOU_GO",
+        "solution": "Climbing and adventure."
+      },
+      "chapter10": {
+        "chapterNo": 10,
+        "title": "Walls Tell Stories",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/eevs110.pdf",
+        "videoId": "VIDEO_ID_WALLS",
+        "solution": "Historical wall paintings."
+      }
+    }
+},
+
+
+  "class6": {
+
+    "english": {
+
+      "honeysuckle": {
+        "chapter1": {
+          "type": "prose",
+          "title": "Who Did Patrick’s Homework?",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk101.pdf",
+          "videoId": "VIDEO_ID_PATRICK",
+          "solution": "Summary, theme, and question answers."
+        },
+        "chapter2": {
+          "type": "prose",
+          "title": "How the Dog Found Himself a New Master!",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk102.pdf",
+          "videoId": "VIDEO_ID_DOG",
+          "solution": "Story explanation and moral."
+        },
+        "chapter3": {
+          "type": "prose",
+          "title": "Taro’s Reward",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk103.pdf",
+          "videoId": "VIDEO_ID_TARO",
+          "solution": "Summary and values taught."
+        },
+        "chapter4": {
+          "type": "prose",
+          "title": "An Indian-American Woman in Space: Kalpana Chawla",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk104.pdf",
+          "videoId": "VIDEO_ID_KALPANA",
+          "solution": "Biography and inspirational lessons."
+        },
+        "chapter5": {
+          "type": "prose",
+          "title": "A Different Kind of School",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk105.pdf",
+          "videoId": "VIDEO_ID_DIFFERENT_SCHOOL",
+          "solution": "Inclusive education explained."
+        },
+        "chapter6": {
+          "type": "prose",
+          "title": "Who I Am",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk106.pdf",
+          "videoId": "VIDEO_ID_WHO_I_AM",
+          "solution": "Understanding identity through short stories."
+        },
+        "chapter7": {
+          "type": "prose",
+          "title": "Fair Play",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk107.pdf",
+          "videoId": "VIDEO_ID_FAIR_PLAY",
+          "solution": "Justice and fairness explained."
+        },
+        "chapter8": {
+          "type": "prose",
+          "title": "A Game of Chance",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk108.pdf",
+          "videoId": "VIDEO_ID_GAME_CHANCE",
+          "solution": "Story with moral lesson."
+        },
+        "chapter9": {
+          "type": "prose",
+          "title": "Desert Animals",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk109.pdf",
+          "videoId": "VIDEO_ID_DESERT",
+          "solution": "Adaptations of desert animals."
+        },
+        "chapter10": {
+          "type": "prose",
+          "title": "The Banyan Tree",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk110.pdf",
+          "videoId": "VIDEO_ID_BANYAN",
+          "solution": "Adventure story summary."
+        },
+
+        "poem1": {
+          "type": "poem",
+          "title": "A House, A Home",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk101.pdf",
+          "videoId": "VIDEO_ID_HOUSE_HOME",
+          "solution": "Poem explanation and theme."
+        },
+        "poem2": {
+          "type": "poem",
+          "title": "The Kite",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk102.pdf",
+          "videoId": "VIDEO_ID_KITE",
+          "solution": "Poem meaning and imagery."
+        },
+        "poem3": {
+          "type": "poem",
+          "title": "The Quarrel",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk103.pdf",
+          "videoId": "VIDEO_ID_QUARREL",
+          "solution": "Poem with life lesson."
+        },
+        "poem4": {
+          "type": "poem",
+          "title": "Beauty",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk104.pdf",
+          "videoId": "VIDEO_ID_BEAUTY",
+          "solution": "Poem explanation."
+        },
+        "poem5": {
+          "type": "poem",
+          "title": "Where Do All the Teachers Go?",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk105.pdf",
+          "videoId": "VIDEO_ID_TEACHERS",
+          "solution": "Poem explained simply."
+        },
+        "poem6": {
+          "type": "poem",
+          "title": "The Wonderful Words",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk106.pdf",
+          "videoId": "VIDEO_ID_WORDS",
+          "solution": "Importance of words explained."
+        },
+        "poem7": {
+          "type": "poem",
+          "title": "Vocation",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk107.pdf",
+          "videoId": "VIDEO_ID_VOCATION",
+          "solution": "Poem summary."
+        },
+        "poem8": {
+          "type": "poem",
+          "title": "What If",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhsk108.pdf",
+          "videoId": "VIDEO_ID_WHAT_IF",
+          "solution": "Poem explanation."
+        }
+      },
+
+      "a_pact_with_the_sun": {
+        "chapter1": {
+          "title": "A Tale of Two Birds",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps101.pdf",
+          "videoId": "VIDEO_ID_TWO_BIRDS",
+          "solution": "Story summary and values."
+        },
+        "chapter2": {
+          "title": "The Friendly Mongoose",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps102.pdf",
+          "videoId": "VIDEO_ID_MONGOOSE",
+          "solution": "Story explanation and moral."
+        },
+        "chapter3": {
+          "title": "The Shepherd’s Treasure",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps103.pdf",
+          "videoId": "VIDEO_ID_SHEPHERD",
+          "solution": "Wisdom and intelligence theme."
+        },
+        "chapter4": {
+          "title": "The Old-Clock Shop",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps104.pdf",
+          "videoId": "VIDEO_ID_CLOCK",
+          "solution": "Story explanation."
+        },
+        "chapter5": {
+          "title": "Tansen",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps105.pdf",
+          "videoId": "VIDEO_ID_TANSEN",
+          "solution": "Life of Tansen and music."
+        },
+        "chapter6": {
+          "title": "The Monkey and the Crocodile",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps106.pdf",
+          "videoId": "VIDEO_ID_MONKEY",
+          "solution": "Story with moral lesson."
+        },
+        "chapter7": {
+          "title": "The Wonder Called Sleep",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps107.pdf",
+          "videoId": "VIDEO_ID_SLEEP",
+          "solution": "Scientific explanation of sleep."
+        },
+        "chapter8": {
+          "title": "A Pact with the Sun",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/faps108.pdf",
+          "videoId": "VIDEO_ID_PACT_SUN",
+          "solution": "Story explanation and theme."
+        }
+      }
+
+    },
+
+    "hindi": {
+
+      "vasant": {
+        "chapter1": {
+          "chapterNo": 1,
+          "title": "वह चिड़िया जो",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs101.pdf",
+          "videoId": "VIDEO_ID_CHIDIYA",
+          "solution": "कविता का भावार्थ और प्रश्न-उत्तर।"
+        },
+        "chapter2": {
+          "chapterNo": 2,
+          "title": "बचपन",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs102.pdf",
+          "videoId": "VIDEO_ID_BACHPAN",
+          "solution": "लेखक के बचपन का वर्णन।"
+        },
+        "chapter3": {
+          "chapterNo": 3,
+          "title": "नादान दोस्त",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs103.pdf",
+          "videoId": "VIDEO_ID_NADAN_DOST",
+          "solution": "मित्रता और समझदारी का संदेश।"
+        },
+        "chapter4": {
+          "chapterNo": 4,
+          "title": "चाँद से थोड़ी-सी गप्पें",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs104.pdf",
+          "videoId": "VIDEO_ID_CHAND",
+          "solution": "कविता की सरल व्याख्या।"
+        },
+        "chapter5": {
+          "chapterNo": 5,
+          "title": "अक्षरों का महत्व",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs105.pdf",
+          "videoId": "VIDEO_ID_AKSHAR",
+          "solution": "शिक्षा का महत्व।"
+        },
+        "chapter6": {
+          "chapterNo": 6,
+          "title": "पार नज़र के",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs106.pdf",
+          "videoId": "VIDEO_ID_PARNZAR",
+          "solution": "दृष्टिकोण और संवेदना।"
+        },
+        "chapter7": {
+          "chapterNo": 7,
+          "title": "साथी हाथ बढ़ाना",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs107.pdf",
+          "videoId": "VIDEO_ID_SAATHI",
+          "solution": "सहयोग और एकता का संदेश।"
+        },
+        "chapter8": {
+          "chapterNo": 8,
+          "title": "ऐसे-ऐसे",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs108.pdf",
+          "videoId": "VIDEO_ID_AISE_AISE",
+          "solution": "हास्य और सीख।"
+        },
+        "chapter9": {
+          "chapterNo": 9,
+          "title": "टिकट-अलबम",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs109.pdf",
+          "videoId": "VIDEO_ID_TICKET_ALBUM",
+          "solution": "संग्रह की आदत और अनुभव।"
+        },
+        "chapter10": {
+          "chapterNo": 10,
+          "title": "झाँसी की रानी",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs110.pdf",
+          "videoId": "VIDEO_ID_JHANSI",
+          "solution": "रानी लक्ष्मीबाई का वीरता वर्णन।"
+        },
+        "chapter11": {
+          "chapterNo": 11,
+          "title": "जो देखकर भी नहीं देखते",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs111.pdf",
+          "videoId": "VIDEO_ID_DEKHNA",
+          "solution": "संवेदनशीलता का महत्व।"
+        },
+        "chapter12": {
+          "chapterNo": 12,
+          "title": "संसार पुस्तक है",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs112.pdf",
+          "videoId": "VIDEO_ID_SANSAR",
+          "solution": "जीवन को पुस्तक से तुलना।"
+        },
+        "chapter13": {
+          "chapterNo": 13,
+          "title": "मैं सबसे छोटी होऊँ",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhvs113.pdf",
+          "videoId": "VIDEO_ID_CHHOTI",
+          "solution": "कविता की भावना।"
+        }
+      },
+
+      "bal_ramkatha": {
+        "chapter1": {
+          "chapterNo": 1,
+          "title": "अयोध्या का वर्णन",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhbr101.pdf",
+          "videoId": "VIDEO_ID_AYODHYA",
+          "solution": "अयोध्या नगरी का वर्णन।"
+        },
+        "chapter2": {
+          "chapterNo": 2,
+          "title": "राम का वनगमन",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhbr102.pdf",
+          "videoId": "VIDEO_ID_VANGAMAN",
+          "solution": "वनवास की कथा।"
+        },
+        "chapter3": {
+          "chapterNo": 3,
+          "title": "सीता की खोज",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhbr103.pdf",
+          "videoId": "VIDEO_ID_SITA_KHOJ",
+          "solution": "हनुमान की भूमिका।"
+        },
+        "chapter4": {
+          "chapterNo": 4,
+          "title": "लंका दहन",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhbr104.pdf",
+          "videoId": "VIDEO_ID_LANKA",
+          "solution": "लंका दहन की घटना।"
+        },
+        "chapter5": {
+          "chapterNo": 5,
+          "title": "राम-रावण युद्ध",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhbr105.pdf",
+          "videoId": "VIDEO_ID_YUDDH",
+          "solution": "अधर्म पर धर्म की विजय।"
+        }
+      }
+
+    },
+
+    "maths": {
+      "chapter1": {
+        "chapterNo": 1,
+        "title": "Knowing Our Numbers",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh101.pdf",
+        "videoId": "VIDEO_ID_KNOWING_NUMBERS",
+        "solution": "Place value, comparison of large numbers, and estimation."
+      },
+      "chapter2": {
+        "chapterNo": 2,
+        "title": "Whole Numbers",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh102.pdf",
+        "videoId": "VIDEO_ID_WHOLE_NUMBERS",
+        "solution": "Natural numbers, whole numbers, number line, and properties."
+      },
+      "chapter3": {
+        "chapterNo": 3,
+        "title": "Playing with Numbers",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh103.pdf",
+        "videoId": "VIDEO_ID_PLAYING_NUMBERS",
+        "solution": "Factors, multiples, prime and composite numbers."
+      },
+      "chapter4": {
+        "chapterNo": 4,
+        "title": "Basic Geometrical Ideas",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh104.pdf",
+        "videoId": "VIDEO_ID_BASIC_GEOMETRY",
+        "solution": "Points, lines, rays, angles, triangles, and circles."
+      },
+      "chapter5": {
+        "chapterNo": 5,
+        "title": "Understanding Elementary Shapes",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh105.pdf",
+        "videoId": "VIDEO_ID_SHAPES",
+        "solution": "Types of angles, polygons, and 3D shapes."
+      },
+      "chapter6": {
+        "chapterNo": 6,
+        "title": "Integers",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh106.pdf",
+        "videoId": "VIDEO_ID_INTEGERS",
+        "solution": "Positive and negative numbers with number line."
+      },
+      "chapter7": {
+        "chapterNo": 7,
+        "title": "Fractions",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh107.pdf",
+        "videoId": "VIDEO_ID_FRACTIONS",
+        "solution": "Types of fractions and operations."
+      },
+      "chapter8": {
+        "chapterNo": 8,
+        "title": "Decimals",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh108.pdf",
+        "videoId": "VIDEO_ID_DECIMALS",
+        "solution": "Decimals and operations with decimals."
+      },
+      "chapter9": {
+        "chapterNo": 9,
+        "title": "Data Handling",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh109.pdf",
+        "videoId": "VIDEO_ID_DATA_HANDLING",
+        "solution": "Pictographs, bar graphs, and interpretation."
+      },
+      "chapter10": {
+        "chapterNo": 10,
+        "title": "Mensuration",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh110.pdf",
+        "videoId": "VIDEO_ID_MENSURATION",
+        "solution": "Perimeter and area of simple figures."
+      },
+      "chapter11": {
+        "chapterNo": 11,
+        "title": "Algebra",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh111.pdf",
+        "videoId": "VIDEO_ID_ALGEBRA",
+        "solution": "Variables, expressions, and equations."
+      },
+      "chapter12": {
+        "chapterNo": 12,
+        "title": "Ratio and Proportion",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh112.pdf",
+        "videoId": "VIDEO_ID_RATIO",
+        "solution": "Understanding ratio and proportion with examples."
+      },
+      "chapter13": {
+        "chapterNo": 13,
+        "title": "Symmetry",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh113.pdf",
+        "videoId": "VIDEO_ID_SYMMETRY",
+        "solution": "Line symmetry and mirror images."
+      },
+      "chapter14": {
+        "chapterNo": 14,
+        "title": "Practical Geometry",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/femh114.pdf",
+        "videoId": "VIDEO_ID_PRACTICAL_GEOMETRY",
+        "solution": "Construction of line segments and angles."
+      }
+    },
+
+    "science": {
+      "chapter1": {
+        "chapterNo": 1,
+        "title": "Food: Where Does It Come From?",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc101.pdf",
+        "videoId": "VIDEO_ID_FOOD_SOURCE",
+        "solution": "Sources of food, plant and animal products."
+      },
+      "chapter2": {
+        "chapterNo": 2,
+        "title": "Components of Food",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc102.pdf",
+        "videoId": "VIDEO_ID_COMPONENTS_FOOD",
+        "solution": "Nutrients, balanced diet, deficiency diseases."
+      },
+      "chapter3": {
+        "chapterNo": 3,
+        "title": "Fibre to Fabric",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc103.pdf",
+        "videoId": "VIDEO_ID_FIBRE_FABRIC",
+        "solution": "Natural fibres, cotton and wool."
+      },
+      "chapter4": {
+        "chapterNo": 4,
+        "title": "Sorting Materials into Groups",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc104.pdf",
+        "videoId": "VIDEO_ID_SORTING",
+        "solution": "Classification of materials based on properties."
+      },
+      "chapter5": {
+        "chapterNo": 5,
+        "title": "Separation of Substances",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc105.pdf",
+        "videoId": "VIDEO_ID_SEPARATION",
+        "solution": "Methods of separation like filtration, evaporation."
+      },
+      "chapter6": {
+        "chapterNo": 6,
+        "title": "Changes Around Us",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc106.pdf",
+        "videoId": "VIDEO_ID_CHANGES",
+        "solution": "Reversible and irreversible changes."
+      },
+      "chapter7": {
+        "chapterNo": 7,
+        "title": "Getting to Know Plants",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc107.pdf",
+        "videoId": "VIDEO_ID_PLANTS",
+        "solution": "Parts of plants and their functions."
+      },
+      "chapter8": {
+        "chapterNo": 8,
+        "title": "Body Movements",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc108.pdf",
+        "videoId": "VIDEO_ID_BODY_MOVEMENTS",
+        "solution": "Types of joints and movement in animals."
+      },
+      "chapter9": {
+        "chapterNo": 9,
+        "title": "The Living Organisms and Their Surroundings",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc109.pdf",
+        "videoId": "VIDEO_ID_LIVING_ORG",
+        "solution": "Habitat, adaptation, living and non-living."
+      },
+      "chapter10": {
+        "chapterNo": 10,
+        "title": "Motion and Measurement of Distances",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc110.pdf",
+        "videoId": "VIDEO_ID_MOTION",
+        "solution": "Types of motion and units of measurement."
+      },
+      "chapter11": {
+        "chapterNo": 11,
+        "title": "Light, Shadows and Reflections",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc111.pdf",
+        "videoId": "VIDEO_ID_LIGHT",
+        "solution": "Light sources, shadows, reflection."
+      },
+      "chapter12": {
+        "chapterNo": 12,
+        "title": "Electricity and Circuits",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc112.pdf",
+        "videoId": "VIDEO_ID_ELECTRICITY",
+        "solution": "Electric circuit, cells, bulbs and switches."
+      },
+      "chapter13": {
+        "chapterNo": 13,
+        "title": "Fun with Magnets",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc113.pdf",
+        "videoId": "VIDEO_ID_MAGNETS",
+        "solution": "Magnetic and non-magnetic materials."
+      },
+      "chapter14": {
+        "chapterNo": 14,
+        "title": "Water",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc114.pdf",
+        "videoId": "VIDEO_ID_WATER",
+        "solution": "Sources of water and water cycle."
+      },
+      "chapter15": {
+        "chapterNo": 15,
+        "title": "Air Around Us",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc115.pdf",
+        "videoId": "VIDEO_ID_AIR",
+        "solution": "Composition of air and importance."
+      },
+      "chapter16": {
+        "chapterNo": 16,
+        "title": "Garbage In, Garbage Out",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/fesc116.pdf",
+        "videoId": "VIDEO_ID_GARBAGE",
+        "solution": "Waste management and recycling."
+      }
+    },
+
+    "social_science": {
+      "history": {
+        "chapter1": {
+          "chapterNo": 1,
+          "title": "What, Where, How and When?",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs101.pdf",
+          "videoId": "VIDEO_ID_HISTORY_1",
+          "solution": "Introduction to history, sources, and timelines."
+        },
+        "chapter2": {
+          "chapterNo": 2,
+          "title": "On the Trail of the Earliest People",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs102.pdf",
+          "videoId": "VIDEO_ID_HISTORY_2",
+          "solution": "Life of hunter-gatherers and early humans."
+        },
+        "chapter3": {
+          "chapterNo": 3,
+          "title": "From Gathering to Growing Food",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs103.pdf",
+          "videoId": "VIDEO_ID_HISTORY_3",
+          "solution": "Beginning of farming and domestication."
+        },
+        "chapter4": {
+          "chapterNo": 4,
+          "title": "In the Earliest Cities",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs104.pdf",
+          "videoId": "VIDEO_ID_HISTORY_4",
+          "solution": "Harappan civilisation and urban life."
+        },
+        "chapter5": {
+          "chapterNo": 5,
+          "title": "What Books and Burials Tell Us",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs105.pdf",
+          "videoId": "VIDEO_ID_HISTORY_5",
+          "solution": "Vedas, burial practices, and social differences."
+        },
+        "chapter6": {
+          "chapterNo": 6,
+          "title": "Kingdoms, Kings and an Early Republic",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs106.pdf",
+          "videoId": "VIDEO_ID_HISTORY_6",
+          "solution": "Mahajanapadas, kingdoms, and republics."
+        },
+        "chapter7": {
+          "chapterNo": 7,
+          "title": "New Questions and Ideas",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs107.pdf",
+          "videoId": "VIDEO_ID_HISTORY_7",
+          "solution": "Teachings of Buddha, Mahavira, and thinkers."
+        },
+        "chapter8": {
+          "chapterNo": 8,
+          "title": "Ashoka, the Emperor Who Gave Up War",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs108.pdf",
+          "videoId": "VIDEO_ID_HISTORY_8",
+          "solution": "Ashoka’s reign, Dhamma, and inscriptions."
+        },
+        "chapter9": {
+          "chapterNo": 9,
+          "title": "Vital Villages, Thriving Towns",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs109.pdf",
+          "videoId": "VIDEO_ID_HISTORY_9",
+          "solution": "Economic activities in villages and towns."
+        },
+        "chapter10": {
+          "chapterNo": 10,
+          "title": "Traders, Kings and Pilgrims",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fhhs110.pdf",
+          "videoId": "VIDEO_ID_HISTORY_10",
+          "solution": "Trade routes, empires, and pilgrimages."
+        }
+    },
+      "geography": {
+        "chapter1": {
+          "chapterNo": 1,
+          "title": "The Earth in the Solar System",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fghs101.pdf",
+          "videoId": "VIDEO_ID_GEO_1",
+          "solution": "Solar system, planets, stars, and satellites explained."
+        },
+        "chapter2": {
+          "chapterNo": 2,
+          "title": "Globe: Latitudes and Longitudes",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fghs102.pdf",
+          "videoId": "VIDEO_ID_GEO_2",
+          "solution": "Globe, latitudes, longitudes, and time zones."
+        },
+        "chapter3": {
+          "chapterNo": 3,
+          "title": "Motions of the Earth",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fghs103.pdf",
+          "videoId": "VIDEO_ID_GEO_3",
+          "solution": "Rotation, revolution, day and night, seasons."
+        },
+        "chapter4": {
+          "chapterNo": 4,
+          "title": "Maps",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fghs104.pdf",
+          "videoId": "VIDEO_ID_GEO_4",
+          "solution": "Types of maps, symbols, scales, and directions."
+        },
+        "chapter5": {
+          "chapterNo": 5,
+          "title": "Major Domains of the Earth",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fghs105.pdf",
+          "videoId": "VIDEO_ID_GEO_5",
+          "solution": "Lithosphere, hydrosphere, atmosphere, and biosphere."
+        },
+        "chapter6": {
+          "chapterNo": 6,
+          "title": "Major Landforms of the Earth",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fghs106.pdf",
+          "videoId": "VIDEO_ID_GEO_6",
+          "solution": "Mountains, plateaus, plains, and their formation."
+        }
+      },
+      "civics": {
+        "chapter1": {
+          "chapterNo": 1,
+          "title": "Understanding Diversity",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs101.pdf",
+          "videoId": "VIDEO_ID_CIVICS_1",
+          "solution": "Meaning of diversity, differences and similarities in India."
+        },
+        "chapter2": {
+          "chapterNo": 2,
+          "title": "Diversity and Discrimination",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs102.pdf",
+          "videoId": "VIDEO_ID_CIVICS_2",
+          "solution": "Discrimination, inequality, and respecting diversity."
+        },
+        "chapter3": {
+          "chapterNo": 3,
+          "title": "What is Government?",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs103.pdf",
+          "videoId": "VIDEO_ID_CIVICS_3",
+          "solution": "Levels of government and its functions."
+        },
+        "chapter4": {
+          "chapterNo": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs104.pdf",
+          "videoId": "VIDEO_ID_CIVICS_4",
+          "solution": "Participation, accountability, and public opinion."
+        },
+        "chapter5": {
+          "chapterNo": 5,
+          "title": "Panchayati Raj",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs105.pdf",
+          "videoId": "VIDEO_ID_CIVICS_5",
+          "solution": "Local self-government in rural areas."
+        },
+        "chapter6": {
+          "chapterNo": 6,
+          "title": "Rural Administration",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs106.pdf",
+          "videoId": "VIDEO_ID_CIVICS_6",
+          "solution": "Police, courts, and revenue administration."
+        },
+        "chapter7": {
+          "chapterNo": 7,
+          "title": "Urban Administration",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs107.pdf",
+          "videoId": "VIDEO_ID_CIVICS_7",
+          "solution": "Municipal corporations and urban governance."
+        },
+        "chapter8": {
+          "chapterNo": 8,
+          "title": "Rural Livelihoods",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/fcvs108.pdf",
+          "videoId": "VIDEO_ID_CIVICS_8",
+          "solution": "Different occupations and rural life."
+        }
+      }
+    }
+
+  },
+  
+
+
+  "class7": {
+    "english": {
+      "honeycomb": {
+        "prose": {
+          "chapter1": { "title": "Three Questions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens101.pdf", "videoId": "VIDEO_ID_3Q", "solution": "Story explanation and moral." },
+          "chapter2": { "title": "A Gift of Chappals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens102.pdf", "videoId": "VIDEO_ID_CHAPPALS", "solution": "Summary and values." },
+          "chapter3": { "title": "Gopal and the Hilsa Fish", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens103.pdf", "videoId": "VIDEO_ID_GOPAL", "solution": "Humour and lesson." },
+          "chapter4": { "title": "The Ashes That Made Trees Bloom", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens104.pdf", "videoId": "VIDEO_ID_ASHES", "solution": "Japanese folktale explanation." },
+          "chapter5": { "title": "Quality", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens105.pdf", "videoId": "VIDEO_ID_QUALITY", "solution": "Values and sacrifice." },
+          "chapter6": { "title": "Expert Detectives", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens106.pdf", "videoId": "VIDEO_ID_DETECTIVE", "solution": "Mystery story explanation." },
+          "chapter7": { "title": "The Invention of Vita-Wonk", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens107.pdf", "videoId": "VIDEO_ID_VITA", "solution": "Imaginative science fiction." },
+          "chapter8": { "title": "Fire: Friend and Foe", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens108.pdf", "videoId": "VIDEO_ID_FIRE", "solution": "Fire safety and uses." },
+          "chapter9": { "title": "A Bicycle in Good Repair", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens109.pdf", "videoId": "VIDEO_ID_BICYCLE", "solution": "Humorous narrative." },
+          "chapter10": { "title": "The Story of Cricket", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gens110.pdf", "videoId": "VIDEO_ID_CRICKET", "solution": "History of cricket." }
+        },
+        "poems": {
+          "poem1": { "title": "The Squirrel", "videoId": "VIDEO_ID_SQUIRREL" },
+          "poem2": { "title": "The Rebel", "videoId": "VIDEO_ID_REBEL" },
+          "poem3": { "title": "The Shed", "videoId": "VIDEO_ID_SHED" },
+          "poem4": { "title": "Chivvy", "videoId": "VIDEO_ID_CHIVVY" },
+          "poem5": { "title": "Trees", "videoId": "VIDEO_ID_TREES" },
+          "poem6": { "title": "Mystery of the Talking Fan", "videoId": "VIDEO_ID_FAN" },
+          "poem7": { "title": "Dad and the Cat and the Tree", "videoId": "VIDEO_ID_DAD" },
+          "poem8": { "title": "Meadow Surprises", "videoId": "VIDEO_ID_MEADOW" }
+        }
+      },
+
+      "an_alien_hand": {
+        "chapter1": { "title": "The Tiny Teacher", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah101.pdf", "videoId": "VIDEO_ID_TINY", "solution": "Ant life explained." },
+        "chapter2": { "title": "Bringing Up Kari", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah102.pdf", "videoId": "VIDEO_ID_KARI", "solution": "Elephant calf story." },
+        "chapter3": { "title": "The Desert", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah103.pdf", "videoId": "VIDEO_ID_DESERT", "solution": "Life in deserts." },
+        "chapter4": { "title": "The Cop and the Anthem", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah104.pdf", "videoId": "VIDEO_ID_COP", "solution": "Irony and humour." },
+        "chapter5": { "title": "Golu Grows a Nose", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah105.pdf", "videoId": "VIDEO_ID_GOLU", "solution": "Elephant origin story." },
+        "chapter6": { "title": "I Want Something in a Cage", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah106.pdf", "videoId": "VIDEO_ID_CAGE", "solution": "Animal care theme." },
+        "chapter7": { "title": "Chandni", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah107.pdf", "videoId": "VIDEO_ID_CHANDNI", "solution": "Freedom and courage." },
+        "chapter8": { "title": "The Bear Story", "pdfUrl": "https://ncert.nic.in/textbook/pdf/geah108.pdf", "videoId": "VIDEO_ID_BEAR", "solution": "Human–animal bond." }
+      }
+    },
+    "hindi": {
+      "vasant": {
+        "chapter1": { "title": "हम पंछी उन्मुक्त गगन के", "videoId": "VIDEO_ID_V1" },
+        "chapter2": { "title": "दादी माँ", "videoId": "VIDEO_ID_V2" },
+        "chapter3": { "title": "हिमालय की बेटियाँ", "videoId": "VIDEO_ID_V3" },
+        "chapter4": { "title": "कठपुतली", "videoId": "VIDEO_ID_V4" },
+        "chapter5": { "title": "मीठाईवाला", "videoId": "VIDEO_ID_V5" }
+      },
+      "mahabharat": {
+        "chapter1": { "title": "राजा जनमेजय की कथा", "videoId": "VIDEO_ID_M1" },
+        "chapter2": { "title": "भीष्म प्रतिज्ञा", "videoId": "VIDEO_ID_M2" },
+        "chapter3": { "title": "अम्बा-अम्बिका-अम्बालिका", "videoId": "VIDEO_ID_M3" }
+      }
+    },
+    "maths": {
+      "chapter1": { "title": "Integers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh101.pdf", "videoId": "VIDEO_ID_INT", "solution": "Operations on integers." },
+      "chapter2": { "title": "Fractions and Decimals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh102.pdf", "videoId": "VIDEO_ID_FRAC", "solution": "Fraction operations." },
+      "chapter3": { "title": "Data Handling", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh103.pdf", "videoId": "VIDEO_ID_DATA", "solution": "Mean, median, bar graphs." },
+      "chapter4": { "title": "Simple Equations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh104.pdf", "videoId": "VIDEO_ID_EQ", "solution": "Solving equations." },
+      "chapter5": { "title": "Lines and Angles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh105.pdf", "videoId": "VIDEO_ID_ANGLES", "solution": "Angle properties." },
+      "chapter6": { "title": "The Triangle and its Properties", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh106.pdf", "videoId": "VIDEO_ID_TRI", "solution": "Triangle rules." },
+      "chapter7": { "title": "Congruence of Triangles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh107.pdf", "videoId": "VIDEO_ID_CONG", "solution": "Congruence criteria." },
+      "chapter8": { "title": "Comparing Quantities", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh108.pdf", "videoId": "VIDEO_ID_CQ", "solution": "Percentage, profit, loss." },
+      "chapter9": { "title": "Rational Numbers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh109.pdf", "videoId": "VIDEO_ID_RAT", "solution": "Rational numbers." },
+      "chapter10": { "title": "Practical Geometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh110.pdf", "videoId": "VIDEO_ID_PG", "solution": "Construction." },
+      "chapter11": { "title": "Perimeter and Area", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh111.pdf", "videoId": "VIDEO_ID_PA", "solution": "Mensuration basics." },
+      "chapter12": { "title": "Algebraic Expressions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh112.pdf", "videoId": "VIDEO_ID_ALG", "solution": "Expressions and simplification." },
+      "chapter13": { "title": "Exponents and Powers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gemh113.pdf", "videoId": "VIDEO_ID_EXP", "solution": "Powers and laws." }
+    },
+    "science": {
+      "chapter1": { "title": "Nutrition in Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc101.pdf", "videoId": "VIDEO_ID_NUT_PLANT", "solution": "Photosynthesis." },
+      "chapter2": { "title": "Nutrition in Animals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc102.pdf", "videoId": "VIDEO_ID_NUT_ANIMAL", "solution": "Digestive system." },
+      "chapter3": { "title": "Fibre to Fabric", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc103.pdf", "videoId": "VIDEO_ID_FIBRE", "solution": "Silk and wool." },
+      "chapter4": { "title": "Heat", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc104.pdf", "videoId": "VIDEO_ID_HEAT", "solution": "Heat transfer." },
+      "chapter5": { "title": "Acids, Bases and Salts", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc105.pdf", "videoId": "VIDEO_ID_ACID", "solution": "Indicators." },
+      "chapter6": { "title": "Physical and Chemical Changes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc106.pdf", "videoId": "VIDEO_ID_CHANGE", "solution": "Types of changes." },
+      "chapter7": { "title": "Weather, Climate and Adaptations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc107.pdf", "videoId": "VIDEO_ID_WEATHER", "solution": "Climate zones." },
+      "chapter8": { "title": "Winds, Storms and Cyclones", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc108.pdf", "videoId": "VIDEO_ID_WIND", "solution": "Cyclones." },
+      "chapter9": { "title": "Soil", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc109.pdf", "videoId": "VIDEO_ID_SOIL", "solution": "Soil types." },
+      "chapter10": { "title": "Respiration in Organisms", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc110.pdf", "videoId": "VIDEO_ID_RESP", "solution": "Breathing." },
+      "chapter11": { "title": "Transportation in Animals and Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc111.pdf", "videoId": "VIDEO_ID_TRANS", "solution": "Circulatory system." },
+      "chapter12": { "title": "Reproduction in Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc112.pdf", "videoId": "VIDEO_ID_REPRO", "solution": "Asexual and sexual reproduction." },
+      "chapter13": { "title": "Motion and Time", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc113.pdf", "videoId": "VIDEO_ID_MOTION", "solution": "Speed and time." },
+      "chapter14": { "title": "Electric Current and its Effects", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc114.pdf", "videoId": "VIDEO_ID_ELEC", "solution": "Electric circuits." },
+      "chapter15": { "title": "Light", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc115.pdf", "videoId": "VIDEO_ID_LIGHT", "solution": "Reflection." },
+      "chapter16": { "title": "Water: A Precious Resource", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc116.pdf", "videoId": "VIDEO_ID_WATER", "solution": "Water conservation." },
+      "chapter17": { "title": "Forests: Our Lifeline", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc117.pdf", "videoId": "VIDEO_ID_FOREST", "solution": "Ecosystem." },
+      "chapter18": { "title": "Wastewater Story", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gesc118.pdf", "videoId": "VIDEO_ID_WASTE", "solution": "Sewage treatment." }
+    },
+    "social_science": {
+      "history": {
+        "chapter1": { "title": "Tracing Changes Through a Thousand Years", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs101.pdf", "videoId": "VIDEO_ID_H1" },
+        "chapter2": { "title": "New Kings and Kingdoms", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs102.pdf", "videoId": "VIDEO_ID_H2" },
+        "chapter3": { "title": "The Delhi Sultans", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs103.pdf", "videoId": "VIDEO_ID_H3" },
+        "chapter4": { "title": "The Mughal Empire", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs104.pdf", "videoId": "VIDEO_ID_H4" },
+        "chapter5": { "title": "Rulers and Buildings", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs105.pdf", "videoId": "VIDEO_ID_H5" },
+        "chapter6": { "title": "Towns, Traders and Craftspersons", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs106.pdf", "videoId": "VIDEO_ID_H6" },
+        "chapter7": { "title": "Tribes, Nomads and Settled Communities", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs107.pdf", "videoId": "VIDEO_ID_H7" },
+        "chapter8": { "title": "Devotional Paths to the Divine", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs108.pdf", "videoId": "VIDEO_ID_H8" },
+        "chapter9": { "title": "The Making of Regional Cultures", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs109.pdf", "videoId": "VIDEO_ID_H9" },
+        "chapter10": { "title": "Eighteenth-Century Political Formations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/ghhs110.pdf", "videoId": "VIDEO_ID_H10" }
+      },
+      "geography": {
+        "chapter1": { "title": "Environment", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gghs101.pdf", "videoId": "VIDEO_ID_G1" },
+        "chapter2": { "title": "Inside Our Earth", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gghs102.pdf", "videoId": "VIDEO_ID_G2" },
+        "chapter3": { "title": "Our Changing Earth", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gghs103.pdf", "videoId": "VIDEO_ID_G3" },
+        "chapter4": { "title": "Air", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gghs104.pdf", "videoId": "VIDEO_ID_G4" },
+        "chapter5": { "title": "Water", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gghs105.pdf", "videoId": "VIDEO_ID_G5" },
+        "chapter6": { "title": "Natural Vegetation and Wildlife", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gghs106.pdf", "videoId": "VIDEO_ID_G6" }
+      },
+      "civics": {
+        "chapter1": { "title": "On Equality", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gcvs101.pdf", "videoId": "VIDEO_ID_C1" },
+        "chapter2": { "title": "Role of the Government in Health", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gcvs102.pdf", "videoId": "VIDEO_ID_C2" },
+        "chapter3": { "title": "How the State Government Works", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gcvs103.pdf", "videoId": "VIDEO_ID_C3" },
+        "chapter4": { "title": "Growing up as Boys and Girls", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gcvs104.pdf", "videoId": "VIDEO_ID_C4" },
+        "chapter5": { "title": "Women Change the World", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gcvs105.pdf", "videoId": "VIDEO_ID_C5" },
+        "chapter6": { "title": "Understanding Media", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gcvs106.pdf", "videoId": "VIDEO_ID_C6" },
+        "chapter7": { "title": "Understanding Advertising", "pdfUrl": "https://ncert.nic.in/textbook/pdf/gcvs107.pdf", "videoId": "VIDEO_ID_C7" }
+      }
+    },
+    "sanskrit": {}
+  },
+
+
+  "class8": {
+    "english": {
+      "honeydew": {
+        "prose": {
+          "chapter1": { "title": "The Best Christmas Present in the World", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess101.pdf", "videoId": "VIDEO_ID_E8_P1", "solution": "Story summary and theme." },
+          "chapter2": { "title": "The Tsunami", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess102.pdf", "videoId": "VIDEO_ID_E8_P2", "solution": "Real life incidents and lessons." },
+          "chapter3": { "title": "Glimpses of the Past", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess103.pdf", "videoId": "VIDEO_ID_E8_P3", "solution": "Indian freedom struggle overview." },
+          "chapter4": { "title": "Bepin Choudhury’s Lapse of Memory", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess104.pdf", "videoId": "VIDEO_ID_E8_P4", "solution": "Psychological short story." },
+          "chapter5": { "title": "The Summit Within", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess105.pdf", "videoId": "VIDEO_ID_E8_P5", "solution": "Mountaineering and self-discovery." },
+          "chapter6": { "title": "This is Jody’s Fawn", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess106.pdf", "videoId": "VIDEO_ID_E8_P6", "solution": "Human–animal relationship." },
+          "chapter7": { "title": "A Visit to Cambridge", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess107.pdf", "videoId": "VIDEO_ID_E8_P7", "solution": "Stephen Hawking’s life." },
+          "chapter8": { "title": "A Short Monsoon Diary", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hess108.pdf", "videoId": "VIDEO_ID_E8_P8", "solution": "Nature diary." }
+        },
+        "poems": {
+          "poem1": { "title": "The Ant and the Cricket", "videoId": "VIDEO_ID_E8_PO1" },
+          "poem2": { "title": "Geography Lesson", "videoId": "VIDEO_ID_E8_PO2" },
+          "poem3": { "title": "Macavity – The Mystery Cat", "videoId": "VIDEO_ID_E8_PO3" },
+          "poem4": { "title": "The Last Bargain", "videoId": "VIDEO_ID_E8_PO4" },
+          "poem5": { "title": "The School Boy", "videoId": "VIDEO_ID_E8_PO5" },
+          "poem6": { "title": "The Duck and the Kangaroo", "videoId": "VIDEO_ID_E8_PO6" },
+          "poem7": { "title": "When I Set Out for Lyonnesse", "videoId": "VIDEO_ID_E8_PO7" },
+          "poem8": { "title": "On the Grasshopper and Cricket", "videoId": "VIDEO_ID_E8_PO8" }
+        }
+      },
+
+      "it_so_happened": {
+        "chapter1": { "title": "How the Camel Got His Hump", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih101.pdf", "videoId": "VIDEO_ID_E8_S1", "solution": "Humorous fable." },
+        "chapter2": { "title": "Children at Work", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih102.pdf", "videoId": "VIDEO_ID_E8_S2", "solution": "Child labour theme." },
+        "chapter3": { "title": "The Selfish Giant", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih103.pdf", "videoId": "VIDEO_ID_E8_S3", "solution": "Love and kindness." },
+        "chapter4": { "title": "The Treasure Within", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih104.pdf", "videoId": "VIDEO_ID_E8_S4", "solution": "Interview based chapter." },
+        "chapter5": { "title": "Princess September", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih105.pdf", "videoId": "VIDEO_ID_E8_S5", "solution": "Freedom and happiness." },
+        "chapter6": { "title": "The Fight", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih106.pdf", "videoId": "VIDEO_ID_E8_S6", "solution": "Friendship and courage." },
+        "chapter7": { "title": "The Open Window", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih107.pdf", "videoId": "VIDEO_ID_E8_S7", "solution": "Irony and humour." },
+        "chapter8": { "title": "Jalebis", "pdfUrl": "https://ncert.nic.in/textbook/pdf/heih108.pdf", "videoId": "VIDEO_ID_E8_S8", "solution": "Childhood temptation." }
+      }
+    },
+    "hindi": {
+      "vasant": {
+        "chapter1": { "title": "ध्वनि", "videoId": "VIDEO_ID_H8_V1" },
+        "chapter2": { "title": "लाख की चूड़ियाँ", "videoId": "VIDEO_ID_H8_V2" },
+        "chapter3": { "title": "बस की यात्रा", "videoId": "VIDEO_ID_H8_V3" },
+        "chapter4": { "title": "दीवानों की हस्ती", "videoId": "VIDEO_ID_H8_V4" },
+        "chapter5": { "title": "चिट्ठियों की अनूठी दुनिया", "videoId": "VIDEO_ID_H8_V5" }
+      },
+      "bharat_ki_khoj": {
+        "chapter1": { "title": "अहमदनगर का किला", "videoId": "VIDEO_ID_H8_B1" },
+        "chapter2": { "title": "तलाश", "videoId": "VIDEO_ID_H8_B2" },
+        "chapter3": { "title": "सिंधु घाटी सभ्यता", "videoId": "VIDEO_ID_H8_B3" }
+      }
+    },
+    "maths": {
+      "chapter1": { "title": "Rational Numbers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh101.pdf", "videoId": "VIDEO_ID_M8_1", "solution": "Properties of rational numbers." },
+      "chapter2": { "title": "Linear Equations in One Variable", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh102.pdf", "videoId": "VIDEO_ID_M8_2", "solution": "Solving equations." },
+      "chapter3": { "title": "Understanding Quadrilaterals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh103.pdf", "videoId": "VIDEO_ID_M8_3", "solution": "Polygon properties." },
+      "chapter4": { "title": "Practical Geometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh104.pdf", "videoId": "VIDEO_ID_M8_4", "solution": "Geometrical constructions." },
+      "chapter5": { "title": "Data Handling", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh105.pdf", "videoId": "VIDEO_ID_M8_5", "solution": "Graphs and probability." },
+      "chapter6": { "title": "Squares and Square Roots", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh106.pdf", "videoId": "VIDEO_ID_M8_6", "solution": "Square roots." },
+      "chapter7": { "title": "Cubes and Cube Roots", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh107.pdf", "videoId": "VIDEO_ID_M8_7", "solution": "Cube roots." },
+      "chapter8": { "title": "Comparing Quantities", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh108.pdf", "videoId": "VIDEO_ID_M8_8", "solution": "Profit, loss, discount." },
+      "chapter9": { "title": "Algebraic Expressions and Identities", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh109.pdf", "videoId": "VIDEO_ID_M8_9", "solution": "Identities." },
+      "chapter10": { "title": "Visualising Solid Shapes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh110.pdf", "videoId": "VIDEO_ID_M8_10", "solution": "3D figures." },
+      "chapter11": { "title": "Mensuration", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh111.pdf", "videoId": "VIDEO_ID_M8_11", "solution": "Area and volume." },
+      "chapter12": { "title": "Exponents and Powers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh112.pdf", "videoId": "VIDEO_ID_M8_12", "solution": "Laws of exponents." },
+      "chapter13": { "title": "Direct and Inverse Proportions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh113.pdf", "videoId": "VIDEO_ID_M8_13", "solution": "Proportionality." },
+      "chapter14": { "title": "Factorisation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh114.pdf", "videoId": "VIDEO_ID_M8_14", "solution": "Factorisation methods." },
+      "chapter15": { "title": "Introduction to Graphs", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh115.pdf", "videoId": "VIDEO_ID_M8_15", "solution": "Graphs on coordinate plane." },
+      "chapter16": { "title": "Playing with Numbers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hmmh116.pdf", "videoId": "VIDEO_ID_M8_16", "solution": "Patterns and puzzles." }
+    },
+    "science": {
+      "chapter1": { "title": "Crop Production and Management", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc101.pdf", "videoId": "VIDEO_ID_S8_1", "solution": "Agriculture practices." },
+      "chapter2": { "title": "Microorganisms: Friend and Foe", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc102.pdf", "videoId": "VIDEO_ID_S8_2", "solution": "Microbes explained." },
+      "chapter3": { "title": "Synthetic Fibres and Plastics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc103.pdf", "videoId": "VIDEO_ID_S8_3", "solution": "Plastics and environment." },
+      "chapter4": { "title": "Materials: Metals and Non-Metals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc104.pdf", "videoId": "VIDEO_ID_S8_4", "solution": "Metal properties." },
+      "chapter5": { "title": "Coal and Petroleum", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc105.pdf", "videoId": "VIDEO_ID_S8_5", "solution": "Fossil fuels." },
+      "chapter6": { "title": "Combustion and Flame", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc106.pdf", "videoId": "VIDEO_ID_S8_6", "solution": "Fire and combustion." },
+      "chapter7": { "title": "Conservation of Plants and Animals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc107.pdf", "videoId": "VIDEO_ID_S8_7", "solution": "Biodiversity." },
+      "chapter8": { "title": "Cell – Structure and Functions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc108.pdf", "videoId": "VIDEO_ID_S8_8", "solution": "Cell biology." },
+      "chapter9": { "title": "Reproduction in Animals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc109.pdf", "videoId": "VIDEO_ID_S8_9", "solution": "Human reproduction." },
+      "chapter10": { "title": "Reaching the Age of Adolescence", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc110.pdf", "videoId": "VIDEO_ID_S8_10", "solution": "Hormonal changes." },
+      "chapter11": { "title": "Force and Pressure", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc111.pdf", "videoId": "VIDEO_ID_S8_11", "solution": "Force concepts." },
+      "chapter12": { "title": "Friction", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc112.pdf", "videoId": "VIDEO_ID_S8_12", "solution": "Friction effects." },
+      "chapter13": { "title": "Sound", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc113.pdf", "videoId": "VIDEO_ID_S8_13", "solution": "Sound waves." },
+      "chapter14": { "title": "Chemical Effects of Electric Current", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc114.pdf", "videoId": "VIDEO_ID_S8_14", "solution": "Electrolysis." },
+      "chapter15": { "title": "Some Natural Phenomena", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc115.pdf", "videoId": "VIDEO_ID_S8_15", "solution": "Lightning and earthquakes." },
+      "chapter16": { "title": "Light", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc116.pdf", "videoId": "VIDEO_ID_S8_16", "solution": "Reflection and refraction." },
+      "chapter17": { "title": "Stars and the Solar System", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc117.pdf", "videoId": "VIDEO_ID_S8_17", "solution": "Astronomy basics." },
+      "chapter18": { "title": "Pollution of Air and Water", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hesc118.pdf", "videoId": "VIDEO_ID_S8_18", "solution": "Environmental pollution." }
+    },
+    "social_science": {
+      "history": {
+        "chapter1": { "title": "How, When and Where", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs101.pdf", "videoId": "VIDEO_ID_H8_1" },
+        "chapter2": { "title": "From Trade to Territory", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs102.pdf", "videoId": "VIDEO_ID_H8_2" },
+        "chapter3": { "title": "Ruling the Countryside", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs103.pdf", "videoId": "VIDEO_ID_H8_3" },
+        "chapter4": { "title": "Tribals, Dikus and the Vision of a Golden Age", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs104.pdf", "videoId": "VIDEO_ID_H8_4" },
+        "chapter5": { "title": "When People Rebel", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs105.pdf", "videoId": "VIDEO_ID_H8_5" },
+        "chapter6": { "title": "Colonialism and the City", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs106.pdf", "videoId": "VIDEO_ID_H8_6" },
+        "chapter7": { "title": "Weavers, Iron Smelters and Factory Owners", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs107.pdf", "videoId": "VIDEO_ID_H8_7" },
+        "chapter8": { "title": "Civilising the “Native”, Educating the Nation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hhhs108.pdf", "videoId": "VIDEO_ID_H8_8" }
+      },
+      "geography": {
+        "chapter1": { "title": "Resources", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hghs101.pdf", "videoId": "VIDEO_ID_G8_1" },
+        "chapter2": { "title": "Land, Soil, Water, Natural Vegetation and Wildlife Resources", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hghs102.pdf", "videoId": "VIDEO_ID_G8_2" },
+        "chapter3": { "title": "Mineral and Power Resources", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hghs103.pdf", "videoId": "VIDEO_ID_G8_3" },
+        "chapter4": { "title": "Agriculture", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hghs104.pdf", "videoId": "VIDEO_ID_G8_4" },
+        "chapter5": { "title": "Industries", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hghs105.pdf", "videoId": "VIDEO_ID_G8_5" },
+        "chapter6": { "title": "Human Resources", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hghs106.pdf", "videoId": "VIDEO_ID_G8_6" }
+      },
+      "civics": {
+        "chapter1": { "title": "The Indian Constitution", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs101.pdf", "videoId": "VIDEO_ID_C8_1" },
+        "chapter2": { "title": "Understanding Secularism", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs102.pdf", "videoId": "VIDEO_ID_C8_2" },
+        "chapter3": { "title": "Why Do We Need a Parliament?", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs103.pdf", "videoId": "VIDEO_ID_C8_3" },
+        "chapter4": { "title": "Understanding Laws", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs104.pdf", "videoId": "VIDEO_ID_C8_4" },
+        "chapter5": { "title": "Judiciary", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs105.pdf", "videoId": "VIDEO_ID_C8_5" },
+        "chapter6": { "title": "Understanding Our Criminal Justice System", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs106.pdf", "videoId": "VIDEO_ID_C8_6" },
+        "chapter7": { "title": "Understanding Marginalisation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs107.pdf", "videoId": "VIDEO_ID_C8_7" },
+        "chapter8": { "title": "Confronting Marginalisation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/hcvs108.pdf", "videoId": "VIDEO_ID_C8_8" }
+      }
+    },
+    "sanskrit": {}
+  },
+
+
+  "class9": {
+    "english": {
+      "beehive": {
+        "chapter1": { "title": "The Fun They Had", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe101.pdf", "videoId": "VIDEO_ID_E9_1", "solution": "Future education concept." },
+        "chapter2": { "title": "The Sound of Music", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe102.pdf", "videoId": "VIDEO_ID_E9_2", "solution": "Evelyn Glennie and Bismillah Khan." },
+        "chapter3": { "title": "The Little Girl", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe103.pdf", "videoId": "VIDEO_ID_E9_3", "solution": "Father–daughter relationship." },
+        "chapter4": { "title": "A Truly Beautiful Mind", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe104.pdf", "videoId": "VIDEO_ID_E9_4", "solution": "Albert Einstein biography." },
+        "chapter5": { "title": "The Snake and the Mirror", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe105.pdf", "videoId": "VIDEO_ID_E9_5", "solution": "Humorous story." },
+        "chapter6": { "title": "My Childhood", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe106.pdf", "videoId": "VIDEO_ID_E9_6", "solution": "A.P.J. Abdul Kalam’s childhood." },
+        "chapter7": { "title": "Packing", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe107.pdf", "videoId": "VIDEO_ID_E9_7", "solution": "Comic narrative." },
+        "chapter8": { "title": "Reach for the Top", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe108.pdf", "videoId": "VIDEO_ID_E9_8", "solution": "Santosh Yadav and Maria Sharapova." },
+        "chapter9": { "title": "The Bond of Love", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe109.pdf", "videoId": "VIDEO_ID_E9_9", "solution": "Human–animal bond." },
+        "chapter10": { "title": "Kathmandu", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe110.pdf", "videoId": "VIDEO_ID_E9_10", "solution": "Travelogue." },
+        "chapter11": { "title": "If I Were You", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe111.pdf", "videoId": "VIDEO_ID_E9_11", "solution": "Play based on presence of mind." }
+      },
+
+      "moments": {
+        "chapter1": { "title": "The Lost Child", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh101.pdf", "videoId": "VIDEO_ID_M9_1", "solution": "Child psychology." },
+        "chapter2": { "title": "The Adventures of Toto", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh102.pdf", "videoId": "VIDEO_ID_M9_2", "solution": "Pet monkey story." },
+        "chapter3": { "title": "Iswaran the Storyteller", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh103.pdf", "videoId": "VIDEO_ID_M9_3", "solution": "Imagination vs reality." },
+        "chapter4": { "title": "In the Kingdom of Fools", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh104.pdf", "videoId": "VIDEO_ID_M9_4", "solution": "Wisdom and foolishness." },
+        "chapter5": { "title": "The Happy Prince", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh105.pdf", "videoId": "VIDEO_ID_M9_5", "solution": "Compassion and sacrifice." },
+        "chapter6": { "title": "Weathering the Storm in Ersama", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh106.pdf", "videoId": "VIDEO_ID_M9_6", "solution": "Cyclone experience." },
+        "chapter7": { "title": "The Last Leaf", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh107.pdf", "videoId": "VIDEO_ID_M9_7", "solution": "Hope and friendship." },
+        "chapter8": { "title": "A House Is Not a Home", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh108.pdf", "videoId": "VIDEO_ID_M9_8", "solution": "Emotional attachment." },
+        "chapter9": { "title": "The Accidental Tourist", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh109.pdf", "videoId": "VIDEO_ID_M9_9", "solution": "Humorous travel writing." }
+      }
+    },
+    "hindi": {
+  "kshitij": {
+    "chapter1": {
+      "title": "दो बैलों की कथा",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks101.pdf",
+      "videoId": "VIDEO_ID_HIN9_K1"
+    },
+    "chapter2": {
+      "title": "ल्हासा की ओर",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks102.pdf",
+      "videoId": "VIDEO_ID_HIN9_K2"
+    },
+    "chapter3": {
+      "title": "उपभोक्तावाद की संस्कृति",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks103.pdf",
+      "videoId": "VIDEO_ID_HIN9_K3"
+    },
+    "chapter4": {
+      "title": "साँवले सपनों की याद",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks104.pdf",
+      "videoId": "VIDEO_ID_HIN9_K4"
+    },
+    "chapter5": {
+      "title": "नाना साहब की पुत्री देवी मैना को भस्म कर दिया गया",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks105.pdf",
+      "videoId": "VIDEO_ID_HIN9_K5"
+    }
+  },
+
+  "kritika": {
+    "chapter1": {
+      "title": "इस जल प्रलय में",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihkr101.pdf",
+      "videoId": "VIDEO_ID_HIN9_R1"
+    },
+    "chapter2": {
+      "title": "मेरे संग की औरतें",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihkr102.pdf",
+      "videoId": "VIDEO_ID_HIN9_R2"
+    },
+    "chapter3": {
+      "title": "रीढ़ की हड्डी",
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihkr103.pdf",
+      "videoId": "VIDEO_ID_HIN9_R3"
+    }
+  }
+},
+    "maths": {
+      "chapter1": { "title": "Number Systems", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh101.pdf", "videoId": "VIDEO_ID_MATH9_1" },
+      "chapter2": { "title": "Polynomials", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh102.pdf", "videoId": "VIDEO_ID_MATH9_2" },
+      "chapter3": { "title": "Coordinate Geometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh103.pdf", "videoId": "VIDEO_ID_MATH9_3" },
+      "chapter4": { "title": "Linear Equations in Two Variables", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh104.pdf", "videoId": "VIDEO_ID_MATH9_4" },
+      "chapter5": { "title": "Introduction to Euclid’s Geometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh105.pdf", "videoId": "VIDEO_ID_MATH9_5" },
+      "chapter6": { "title": "Lines and Angles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh106.pdf", "videoId": "VIDEO_ID_MATH9_6" },
+      "chapter7": { "title": "Triangles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh107.pdf", "videoId": "VIDEO_ID_MATH9_7" },
+      "chapter8": { "title": "Quadrilaterals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh108.pdf", "videoId": "VIDEO_ID_MATH9_8" },
+      "chapter9": { "title": "Areas of Parallelograms and Triangles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh109.pdf", "videoId": "VIDEO_ID_MATH9_9" },
+      "chapter10": { "title": "Circles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh110.pdf", "videoId": "VIDEO_ID_MATH9_10" },
+      "chapter11": { "title": "Constructions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh111.pdf", "videoId": "VIDEO_ID_MATH9_11" },
+      "chapter12": { "title": "Heron’s Formula", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh112.pdf", "videoId": "VIDEO_ID_MATH9_12" },
+      "chapter13": { "title": "Surface Areas and Volumes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh113.pdf", "videoId": "VIDEO_ID_MATH9_13" },
+      "chapter14": { "title": "Statistics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh114.pdf", "videoId": "VIDEO_ID_MATH9_14" },
+      "chapter15": { "title": "Probability", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iemh115.pdf", "videoId": "VIDEO_ID_MATH9_15" }
+    },
+    "science": {
+      "chapter1": {
+        "title": "Matter in Our Surroundings",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc101.pdf",
+        "videoId": "VIDEO_ID_SCI9_1",
+        "solution": "States of matter, evaporation and temperature."
+      },
+      "chapter2": {
+        "title": "Is Matter Around Us Pure?",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc102.pdf",
+        "videoId": "VIDEO_ID_SCI9_2",
+        "solution": "Mixtures, solutions and separation methods."
+      },
+      "chapter3": {
+        "title": "Atoms and Molecules",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc103.pdf",
+        "videoId": "VIDEO_ID_SCI9_3",
+        "solution": "Laws of chemical combination."
+      },
+      "chapter4": {
+        "title": "Structure of the Atom",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc104.pdf",
+        "videoId": "VIDEO_ID_SCI9_4",
+        "solution": "Atomic models and subatomic particles."
+      },
+      "chapter5": {
+        "title": "The Fundamental Unit of Life",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc105.pdf",
+        "videoId": "VIDEO_ID_SCI9_5",
+        "solution": "Cell structure and functions."
+      },
+      "chapter6": {
+        "title": "Tissues",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc106.pdf",
+        "videoId": "VIDEO_ID_SCI9_6",
+        "solution": "Plant and animal tissues."
+      },
+      "chapter7": {
+        "title": "Diversity in Living Organisms",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc107.pdf",
+        "videoId": "VIDEO_ID_SCI9_7",
+        "solution": "Classification of organisms."
+      },
+      "chapter8": {
+        "title": "Motion",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc108.pdf",
+        "videoId": "VIDEO_ID_SCI9_8",
+        "solution": "Distance, displacement, velocity, acceleration."
+      },
+      "chapter9": {
+        "title": "Force and Laws of Motion",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc109.pdf",
+        "videoId": "VIDEO_ID_SCI9_9",
+        "solution": "Newton’s laws and applications."
+      },
+      "chapter10": {
+        "title": "Gravitation",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc110.pdf",
+        "videoId": "VIDEO_ID_SCI9_10",
+        "solution": "Universal law of gravitation."
+      },
+      "chapter11": {
+        "title": "Work and Energy",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc111.pdf",
+        "videoId": "VIDEO_ID_SCI9_11",
+        "solution": "Work, power, kinetic and potential energy."
+      },
+      "chapter12": {
+        "title": "Sound",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc112.pdf",
+        "videoId": "VIDEO_ID_SCI9_12",
+        "solution": "Sound waves and human ear."
+      },
+      "chapter13": {
+        "title": "Why Do We Fall Ill",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc113.pdf",
+        "videoId": "VIDEO_ID_SCI9_13",
+        "solution": "Health, disease and prevention."
+      },
+      "chapter14": {
+        "title": "Natural Resources",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc114.pdf",
+        "videoId": "VIDEO_ID_SCI9_14",
+        "solution": "Air, water, soil and biogeochemical cycles."
+      },
+      "chapter15": {
+        "title": "Improvement in Food Resources",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc115.pdf",
+        "videoId": "VIDEO_ID_SCI9_15",
+        "solution": "Crop production and animal husbandry."
+      }
+    },
+    "social_science": {
+      "history": {
+        "chapter1": { "title": "The French Revolution", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess101.pdf", "videoId": "VIDEO_ID_HIS9_1" },
+        "chapter2": { "title": "Socialism in Europe and the Russian Revolution", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess102.pdf", "videoId": "VIDEO_ID_HIS9_2" },
+        "chapter3": { "title": "Nazism and the Rise of Hitler", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess103.pdf", "videoId": "VIDEO_ID_HIS9_3" },
+        "chapter4": { "title": "Forest Society and Colonialism", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess104.pdf", "videoId": "VIDEO_ID_HIS9_4" },
+        "chapter5": { "title": "Pastoralists in the Modern World", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess105.pdf", "videoId": "VIDEO_ID_HIS9_5" }
+      },
+      "geography": {
+        "chapter1": { "title": "India – Size and Location", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess201.pdf", "videoId": "VIDEO_ID_GEO9_1" },
+        "chapter2": { "title": "Physical Features of India", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess202.pdf", "videoId": "VIDEO_ID_GEO9_2" },
+        "chapter3": { "title": "Drainage", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess203.pdf", "videoId": "VIDEO_ID_GEO9_3" },
+        "chapter4": { "title": "Climate", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess204.pdf", "videoId": "VIDEO_ID_GEO9_4" },
+        "chapter5": { "title": "Natural Vegetation and Wildlife", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess205.pdf", "videoId": "VIDEO_ID_GEO9_5" },
+        "chapter6": { "title": "Population", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess206.pdf", "videoId": "VIDEO_ID_GEO9_6" }
+      },
+      "political_science": {
+        "chapter1": { "title": "What is Democracy? Why Democracy?", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess301.pdf", "videoId": "VIDEO_ID_POL9_1" },
+        "chapter2": { "title": "Constitutional Design", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess302.pdf", "videoId": "VIDEO_ID_POL9_2" },
+        "chapter3": { "title": "Electoral Politics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess303.pdf", "videoId": "VIDEO_ID_POL9_3" },
+        "chapter4": { "title": "Working of Institutions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess304.pdf", "videoId": "VIDEO_ID_POL9_4" },
+        "chapter5": { "title": "Democratic Rights", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess305.pdf", "videoId": "VIDEO_ID_POL9_5" }
+      },
+      "economics": {
+        "chapter1": { "title": "The Story of Village Palampur", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess401.pdf", "videoId": "VIDEO_ID_ECO9_1" },
+        "chapter2": { "title": "People as Resource", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess402.pdf", "videoId": "VIDEO_ID_ECO9_2" },
+        "chapter3": { "title": "Poverty as a Challenge", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess403.pdf", "videoId": "VIDEO_ID_ECO9_3" },
+        "chapter4": { "title": "Food Security in India", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iess404.pdf", "videoId": "VIDEO_ID_ECO9_4" }
+      }
+    },
+    "sanskrit": {}
+  },
+
+
+
+  "class10": {
+    "english": {
+      "first_flight": {
+        "chapter1": { "title": "A Letter to God", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl101.pdf", "videoId": "VIDEO_ID_E10_1" },
+        "chapter2": { "title": "Nelson Mandela: Long Walk to Freedom", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl102.pdf", "videoId": "VIDEO_ID_E10_2" },
+        "chapter3": { "title": "Two Stories About Flying", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl103.pdf", "videoId": "VIDEO_ID_E10_3" },
+        "chapter4": { "title": "From the Diary of Anne Frank", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl104.pdf", "videoId": "VIDEO_ID_E10_4" },
+        "chapter5": { "title": "The Hundred Dresses – I", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl105.pdf", "videoId": "VIDEO_ID_E10_5" },
+        "chapter6": { "title": "The Hundred Dresses – II", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl106.pdf", "videoId": "VIDEO_ID_E10_6" },
+        "chapter7": { "title": "Glimpses of India", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl107.pdf", "videoId": "VIDEO_ID_E10_7" },
+        "chapter8": { "title": "Mijbil the Otter", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl108.pdf", "videoId": "VIDEO_ID_E10_8" },
+        "chapter9": { "title": "Madam Rides the Bus", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl109.pdf", "videoId": "VIDEO_ID_E10_9" },
+        "chapter10": { "title": "The Sermon at Benares", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl110.pdf", "videoId": "VIDEO_ID_E10_10" },
+        "chapter11": { "title": "The Proposal", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefl111.pdf", "videoId": "VIDEO_ID_E10_11" }
+      },
+
+      "footprints_without_feet": {
+        "chapter1": { "title": "A Triumph of Surgery", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw101.pdf", "videoId": "VIDEO_ID_FW10_1" },
+        "chapter2": { "title": "The Thief’s Story", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw102.pdf", "videoId": "VIDEO_ID_FW10_2" },
+        "chapter3": { "title": "The Midnight Visitor", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw103.pdf", "videoId": "VIDEO_ID_FW10_3" },
+        "chapter4": { "title": "A Question of Trust", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw104.pdf", "videoId": "VIDEO_ID_FW10_4" },
+        "chapter5": { "title": "Footprints Without Feet", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw105.pdf", "videoId": "VIDEO_ID_FW10_5" },
+        "chapter6": { "title": "The Making of a Scientist", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw106.pdf", "videoId": "VIDEO_ID_FW10_6" },
+        "chapter7": { "title": "The Necklace", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw107.pdf", "videoId": "VIDEO_ID_FW10_7" },
+        "chapter8": { "title": "The Hack Driver", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw108.pdf", "videoId": "VIDEO_ID_FW10_8" },
+        "chapter9": { "title": "Bholi", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw109.pdf", "videoId": "VIDEO_ID_FW10_9" },
+        "chapter10": { "title": "The Book That Saved the Earth", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jefw110.pdf", "videoId": "VIDEO_ID_FW10_10" }
+      }
+    },
+    "hindi": {
+
+      "kshitij": {
+        "chapter1": {
+          "title": "सूरदास के पद",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks101.pdf",
+          "videoId": "VIDEO_ID_HIN10_K1"
+        },
+        "chapter2": {
+          "title": "राम-लक्ष्मण-परशुराम संवाद",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks102.pdf",
+          "videoId": "VIDEO_ID_HIN10_K2"
+        },
+        "chapter3": {
+          "title": "सवैये",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks103.pdf",
+          "videoId": "VIDEO_ID_HIN10_K3"
+        },
+        "chapter4": {
+          "title": "आत्मकथ्य",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks104.pdf",
+          "videoId": "VIDEO_ID_HIN10_K4"
+        },
+        "chapter5": {
+          "title": "उत्साह",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks105.pdf",
+          "videoId": "VIDEO_ID_HIN10_K5"
+        },
+        "chapter6": {
+          "title": "यह दंतुरित मुस्कान",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks106.pdf",
+          "videoId": "VIDEO_ID_HIN10_K6"
+        },
+        "chapter7": {
+          "title": "फसल",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks107.pdf",
+          "videoId": "VIDEO_ID_HIN10_K7"
+        },
+        "chapter8": {
+          "title": "नेताजी का चश्मा",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks108.pdf",
+          "videoId": "VIDEO_ID_HIN10_K8"
+        },
+        "chapter9": {
+          "title": "बालगोबिन भगत",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks109.pdf",
+          "videoId": "VIDEO_ID_HIN10_K9"
+        },
+        "chapter10": {
+          "title": "लखनवी अंदाज़",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks110.pdf",
+          "videoId": "VIDEO_ID_HIN10_K10"
+        },
+        "chapter11": {
+          "title": "मानवीय करुणा की दिव्य चमक",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks111.pdf",
+          "videoId": "VIDEO_ID_HIN10_K11"
+        },
+        "chapter12": {
+          "title": "एक कहानी यह भी",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks112.pdf",
+          "videoId": "VIDEO_ID_HIN10_K12"
+        },
+        "chapter13": {
+          "title": "स्त्री शिक्षा के विरोधी कुतर्कों का खंडन",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhks113.pdf",
+          "videoId": "VIDEO_ID_HIN10_K13"
+        }
+      },
+
+      "kritika": {
+        "chapter1": {
+          "title": "माता का आँचल",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhkr101.pdf",
+          "videoId": "VIDEO_ID_HIN10_R1"
+        },
+        "chapter2": {
+          "title": "जॉर्ज पंचम की नाक",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhkr102.pdf",
+          "videoId": "VIDEO_ID_HIN10_R2"
+        },
+        "chapter3": {
+          "title": "साना-साना हाथ जोड़ि",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhkr103.pdf",
+          "videoId": "VIDEO_ID_HIN10_R3"
+        },
+        "chapter4": {
+          "title": "एही ठैयाँ झुलनी हेरानी हो राम!",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhkr104.pdf",
+          "videoId": "VIDEO_ID_HIN10_R4"
+        },
+        "chapter5": {
+          "title": "मैं क्यों लिखता हूँ",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhkr105.pdf",
+          "videoId": "VIDEO_ID_HIN10_R5"
+        }
+      }
+
+    },
+    "maths": {
+      "chapter1": { "title": "Real Numbers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh101.pdf", "videoId": "VIDEO_ID_M10_1" },
+      "chapter2": { "title": "Polynomials", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh102.pdf", "videoId": "VIDEO_ID_M10_2" },
+      "chapter3": { "title": "Pair of Linear Equations in Two Variables", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh103.pdf", "videoId": "VIDEO_ID_M10_3" },
+      "chapter4": { "title": "Quadratic Equations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh104.pdf", "videoId": "VIDEO_ID_M10_4" },
+      "chapter5": { "title": "Arithmetic Progressions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh105.pdf", "videoId": "VIDEO_ID_M10_5" },
+      "chapter6": { "title": "Triangles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh106.pdf", "videoId": "VIDEO_ID_M10_6" },
+      "chapter7": { "title": "Coordinate Geometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh107.pdf", "videoId": "VIDEO_ID_M10_7" },
+      "chapter8": { "title": "Trigonometry – Introduction", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh108.pdf", "videoId": "VIDEO_ID_M10_8" },
+      "chapter9": { "title": "Some Applications of Trigonometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh109.pdf", "videoId": "VIDEO_ID_M10_9" },
+      "chapter10": { "title": "Circles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh110.pdf", "videoId": "VIDEO_ID_M10_10" },
+      "chapter11": { "title": "Constructions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh111.pdf", "videoId": "VIDEO_ID_M10_11" },
+      "chapter12": { "title": "Areas Related to Circles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh112.pdf", "videoId": "VIDEO_ID_M10_12" },
+      "chapter13": { "title": "Surface Areas and Volumes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh113.pdf", "videoId": "VIDEO_ID_M10_13" },
+      "chapter14": { "title": "Statistics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh114.pdf", "videoId": "VIDEO_ID_M10_14" },
+      "chapter15": { "title": "Probability", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jemh115.pdf", "videoId": "VIDEO_ID_M10_15" }
+    },
+    "science": {
+      "chapter1": { "title": "Chemical Reactions and Equations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc101.pdf", "videoId": "VIDEO_ID_S10_1" },
+      "chapter2": { "title": "Acids, Bases and Salts", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf", "videoId": "VIDEO_ID_S10_2" },
+      "chapter3": { "title": "Metals and Non-metals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc103.pdf", "videoId": "VIDEO_ID_S10_3" },
+      "chapter4": { "title": "Carbon and its Compounds", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc104.pdf", "videoId": "VIDEO_ID_S10_4" },
+      "chapter5": { "title": "Life Processes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf", "videoId": "VIDEO_ID_S10_5" },
+      "chapter6": { "title": "Control and Coordination", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc106.pdf", "videoId": "VIDEO_ID_S10_6" },
+      "chapter7": { "title": "How do Organisms Reproduce", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc107.pdf", "videoId": "VIDEO_ID_S10_7" },
+      "chapter8": { "title": "Heredity and Evolution", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc108.pdf", "videoId": "VIDEO_ID_S10_8" },
+      "chapter9": { "title": "Light – Reflection and Refraction", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc109.pdf", "videoId": "VIDEO_ID_S10_9" },
+      "chapter10": { "title": "The Human Eye and the Colourful World", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc110.pdf", "videoId": "VIDEO_ID_S10_10" },
+      "chapter11": { "title": "Electricity", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc111.pdf", "videoId": "VIDEO_ID_S10_11" },
+      "chapter12": { "title": "Magnetic Effects of Electric Current", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc112.pdf", "videoId": "VIDEO_ID_S10_12" },
+      "chapter13": { "title": "Our Environment", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc113.pdf", "videoId": "VIDEO_ID_S10_13" },
+      "chapter14": { "title": "Sources of Energy", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc114.pdf", "videoId": "VIDEO_ID_S10_14" },
+      "chapter15": { "title": "Management of Natural Resources", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jesc115.pdf", "videoId": "VIDEO_ID_S10_15" }
+    },
+    "social_science": {
+      "history": {
+        "chapter1": { "title": "The Rise of Nationalism in Europe", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhss101.pdf", "videoId": "VIDEO_ID_H10_1" },
+        "chapter2": { "title": "Nationalism in India", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhss102.pdf", "videoId": "VIDEO_ID_H10_2" },
+        "chapter3": { "title": "The Making of a Global World", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhss103.pdf", "videoId": "VIDEO_ID_H10_3" },
+        "chapter4": { "title": "The Age of Industrialisation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhss104.pdf", "videoId": "VIDEO_ID_H10_4" },
+        "chapter5": { "title": "Print Culture and the Modern World", "pdfUrl": "https://ncert.nic.in/textbook/pdf/jhss105.pdf", "videoId": "VIDEO_ID_H10_5" }
+      },
+      "geography": {
+        "chapter1": {
+          "title": "Resources and Development",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jgss101.pdf",
+          "videoId": "VIDEO_ID_GEO10_1"
+        },
+        "chapter2": {
+          "title": "Forest and Wildlife Resources",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jgss102.pdf",
+          "videoId": "VIDEO_ID_GEO10_2"
+        },
+        "chapter3": {
+          "title": "Water Resources",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jgss103.pdf",
+          "videoId": "VIDEO_ID_GEO10_3"
+        },
+        "chapter4": {
+          "title": "Agriculture",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jgss104.pdf",
+          "videoId": "VIDEO_ID_GEO10_4"
+        },
+        "chapter5": {
+          "title": "Minerals and Energy Resources",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jgss105.pdf",
+          "videoId": "VIDEO_ID_GEO10_5"
+        },
+        "chapter6": {
+          "title": "Manufacturing Industries",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jgss106.pdf",
+          "videoId": "VIDEO_ID_GEO10_6"
+        },
+        "chapter7": {
+          "title": "Lifelines of National Economy",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jgss107.pdf",
+          "videoId": "VIDEO_ID_GEO10_7"
+        }
+      },
+      "political_science": {
+        "chapter1": {
+          "title": "Power Sharing",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jpss101.pdf",
+          "videoId": "VIDEO_ID_POL10_1"
+        },
+        "chapter2": {
+          "title": "Federalism",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jpss102.pdf",
+          "videoId": "VIDEO_ID_POL10_2"
+        },
+        "chapter3": {
+          "title": "Gender, Religion and Caste",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jpss103.pdf",
+          "videoId": "VIDEO_ID_POL10_3"
+        },
+        "chapter4": {
+          "title": "Political Parties",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jpss104.pdf",
+          "videoId": "VIDEO_ID_POL10_4"
+        },
+        "chapter5": {
+          "title": "Outcomes of Democracy",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jpss105.pdf",
+          "videoId": "VIDEO_ID_POL10_5"
+        }
+      },
+      "economics": {
+        "chapter1": {
+          "title": "Development",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jess101.pdf",
+          "videoId": "VIDEO_ID_ECO10_1"
+        },
+        "chapter2": {
+          "title": "Sectors of the Indian Economy",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jess102.pdf",
+          "videoId": "VIDEO_ID_ECO10_2"
+        },
+        "chapter3": {
+          "title": "Money and Credit",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jess103.pdf",
+          "videoId": "VIDEO_ID_ECO10_3"
+        },
+        "chapter4": {
+          "title": "Globalisation and the Indian Economy",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jess104.pdf",
+          "videoId": "VIDEO_ID_ECO10_4"
+        },
+        "chapter5": {
+          "title": "Consumer Rights",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/jess105.pdf",
+          "videoId": "VIDEO_ID_ECO10_5"
+        }
+      }
+    },
+    "sanskrit": {}
+  },
+
+
+
+  
+  "class11": {
+    "english": {
+      "hornbill": {
+        "chapter1": { "title": "The Portrait of a Lady", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb101.pdf", "videoId": "VIDEO_ID_E11_1" },
+        "chapter2": { "title": "We’re Not Afraid to Die…", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb102.pdf", "videoId": "VIDEO_ID_E11_2" },
+        "chapter3": { "title": "Discovering Tut: The Saga Continues", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb103.pdf", "videoId": "VIDEO_ID_E11_3" },
+        "chapter4": { "title": "Landscape of the Soul", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb104.pdf", "videoId": "VIDEO_ID_E11_4" },
+        "chapter5": { "title": "The Ailing Planet", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb105.pdf", "videoId": "VIDEO_ID_E11_5" },
+        "chapter6": { "title": "The Browning Version", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb106.pdf", "videoId": "VIDEO_ID_E11_6" },
+        "chapter7": { "title": "The Adventure", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb107.pdf", "videoId": "VIDEO_ID_E11_7" },
+        "chapter8": { "title": "Silk Road", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehb108.pdf", "videoId": "VIDEO_ID_E11_8" }
+      },
+      "snapshots": {
+        "chapter1": { "title": "The Summer of the Beautiful White Horse", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesh101.pdf", "videoId": "VIDEO_ID_E11_S1" },
+        "chapter2": { "title": "The Address", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesh102.pdf", "videoId": "VIDEO_ID_E11_S2" },
+        "chapter3": { "title": "Ranga’s Marriage", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesh103.pdf", "videoId": "VIDEO_ID_E11_S3" },
+        "chapter4": { "title": "Albert Einstein at School", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesh104.pdf", "videoId": "VIDEO_ID_E11_S4" },
+        "chapter5": { "title": "Mother’s Day", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesh105.pdf", "videoId": "VIDEO_ID_E11_S5" }
+      }
+    },
+    "hindi": {
+
+      "aaroh": {
+        "chapter1": {
+          "title": "नमक",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khha101.pdf",
+          "videoId": "VIDEO_ID_HIN11_A1"
+        },
+        "chapter2": {
+          "title": "मियाँ नसीरुद्दीन",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khha102.pdf",
+          "videoId": "VIDEO_ID_HIN11_A2"
+        },
+        "chapter3": {
+          "title": "अपना मालवा खाऊँ उजाड़",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khha103.pdf",
+          "videoId": "VIDEO_ID_HIN11_A3"
+        },
+        "chapter4": {
+          "title": "विदाई संभाषण",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khha104.pdf",
+          "videoId": "VIDEO_ID_HIN11_A4"
+        },
+        "chapter5": {
+          "title": "गलता लोहा",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khha105.pdf",
+          "videoId": "VIDEO_ID_HIN11_A5"
+        },
+        "chapter6": {
+          "title": "कविता के बहाने",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khha106.pdf",
+          "videoId": "VIDEO_ID_HIN11_A6"
+        },
+        "chapter7": {
+          "title": "बात सीधी थी",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khha107.pdf",
+          "videoId": "VIDEO_ID_HIN11_A7"
+        }
+      },
+
+      "vitan": {
+        "chapter1": {
+          "title": "भारतीय गायिकाएँ",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khhv101.pdf",
+          "videoId": "VIDEO_ID_HIN11_V1"
+        },
+        "chapter2": {
+          "title": "लू",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khhv102.pdf",
+          "videoId": "VIDEO_ID_HIN11_V2"
+        },
+        "chapter3": {
+          "title": "गंगा",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khhv103.pdf",
+          "videoId": "VIDEO_ID_HIN11_V3"
+        },
+        "chapter4": {
+          "title": "स्मृति",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/khhv104.pdf",
+          "videoId": "VIDEO_ID_HIN11_V4"
+        }
+      }
+
+    },
+    "maths": {
+      "chapter1": { "title": "Sets", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh101.pdf", "videoId": "VIDEO_ID_M11_1" },
+      "chapter2": { "title": "Relations and Functions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh102.pdf", "videoId": "VIDEO_ID_M11_2" },
+      "chapter3": { "title": "Trigonometric Functions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh103.pdf", "videoId": "VIDEO_ID_M11_3" },
+      "chapter4": { "title": "Principle of Mathematical Induction", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh104.pdf", "videoId": "VIDEO_ID_M11_4" },
+      "chapter5": { "title": "Complex Numbers and Quadratic Equations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh105.pdf", "videoId": "VIDEO_ID_M11_5" },
+      "chapter6": { "title": "Linear Inequalities", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh106.pdf", "videoId": "VIDEO_ID_M11_6" },
+      "chapter7": { "title": "Permutations and Combinations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh107.pdf", "videoId": "VIDEO_ID_M11_7" },
+      "chapter8": { "title": "Binomial Theorem", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh108.pdf", "videoId": "VIDEO_ID_M11_8" },
+      "chapter9": { "title": "Sequences and Series", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh109.pdf", "videoId": "VIDEO_ID_M11_9" },
+      "chapter10": { "title": "Straight Lines", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh110.pdf", "videoId": "VIDEO_ID_M11_10" },
+      "chapter11": { "title": "Conic Sections", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh111.pdf", "videoId": "VIDEO_ID_M11_11" },
+      "chapter12": { "title": "Introduction to Three Dimensional Geometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh112.pdf", "videoId": "VIDEO_ID_M11_12" },
+      "chapter13": { "title": "Limits and Derivatives", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh113.pdf", "videoId": "VIDEO_ID_M11_13" },
+      "chapter14": { "title": "Mathematical Reasoning", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh114.pdf", "videoId": "VIDEO_ID_M11_14" },
+      "chapter15": { "title": "Statistics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh115.pdf", "videoId": "VIDEO_ID_M11_15" },
+      "chapter16": { "title": "Probability", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh116.pdf", "videoId": "VIDEO_ID_M11_16" }
+    },
+    "physics": {
+      "chapter1": { "title": "Physical World and Measurement", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph101.pdf", "videoId": "VIDEO_ID_P11_1" },
+      "chapter2": { "title": "Kinematics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph102.pdf", "videoId": "VIDEO_ID_P11_2" },
+      "chapter3": { "title": "Laws of Motion", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph103.pdf", "videoId": "VIDEO_ID_P11_3" },
+      "chapter4": { "title": "Work, Energy and Power", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph104.pdf", "videoId": "VIDEO_ID_P11_4" },
+      "chapter5": { "title": "Motion of System of Particles and Rigid Body", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph105.pdf", "videoId": "VIDEO_ID_P11_5" },
+      "chapter6": { "title": "Gravitation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph106.pdf", "videoId": "VIDEO_ID_P11_6" },
+      "chapter7": { "title": "Properties of Bulk Matter", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph107.pdf", "videoId": "VIDEO_ID_P11_7" },
+      "chapter8": { "title": "Thermodynamics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph108.pdf", "videoId": "VIDEO_ID_P11_8" },
+      "chapter9": { "title": "Behaviour of Perfect Gas and Kinetic Theory", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph109.pdf", "videoId": "VIDEO_ID_P11_9" },
+      "chapter10": { "title": "Oscillations and Waves", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keph110.pdf", "videoId": "VIDEO_ID_P11_10" }
+    },
+    "chemistry": {
+      "chapter1": { "title": "Some Basic Concepts of Chemistry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech101.pdf", "videoId": "VIDEO_ID_C11_1" },
+      "chapter2": { "title": "Structure of Atom", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech102.pdf", "videoId": "VIDEO_ID_C11_2" },
+      "chapter3": { "title": "Classification of Elements and Periodicity", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech103.pdf", "videoId": "VIDEO_ID_C11_3" },
+      "chapter4": { "title": "Chemical Bonding and Molecular Structure", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech104.pdf", "videoId": "VIDEO_ID_C11_4" },
+      "chapter5": { "title": "States of Matter", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech105.pdf", "videoId": "VIDEO_ID_C11_5" },
+      "chapter6": { "title": "Thermodynamics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech106.pdf", "videoId": "VIDEO_ID_C11_6" },
+      "chapter7": { "title": "Equilibrium", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech107.pdf", "videoId": "VIDEO_ID_C11_7" },
+      "chapter8": { "title": "Redox Reactions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech108.pdf", "videoId": "VIDEO_ID_C11_8" },
+      "chapter9": { "title": "Hydrogen", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech109.pdf", "videoId": "VIDEO_ID_C11_9" },
+      "chapter10": { "title": "The s-Block Elements", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech110.pdf", "videoId": "VIDEO_ID_C11_10" },
+      "chapter11": { "title": "Some p-Block Elements", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech111.pdf", "videoId": "VIDEO_ID_C11_11" },
+      "chapter12": { "title": "Organic Chemistry – Basic Principles", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech112.pdf", "videoId": "VIDEO_ID_C11_12" },
+      "chapter13": { "title": "Hydrocarbons", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech113.pdf", "videoId": "VIDEO_ID_C11_13" },
+      "chapter14": { "title": "Environmental Chemistry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech114.pdf", "videoId": "VIDEO_ID_C11_14" }
+    },
+    "biology": {
+      "chapter1": { "title": "The Living World", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo101.pdf", "videoId": "VIDEO_ID_B11_1" },
+      "chapter2": { "title": "Biological Classification", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo102.pdf", "videoId": "VIDEO_ID_B11_2" },
+      "chapter3": { "title": "Plant Kingdom", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo103.pdf", "videoId": "VIDEO_ID_B11_3" },
+      "chapter4": { "title": "Animal Kingdom", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo104.pdf", "videoId": "VIDEO_ID_B11_4" },
+      "chapter5": { "title": "Morphology of Flowering Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo105.pdf", "videoId": "VIDEO_ID_B11_5" },
+      "chapter6": { "title": "Anatomy of Flowering Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo106.pdf", "videoId": "VIDEO_ID_B11_6" },
+      "chapter7": { "title": "Structural Organisation in Animals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo107.pdf", "videoId": "VIDEO_ID_B11_7" },
+      "chapter8": { "title": "Cell: Structure and Function", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo108.pdf", "videoId": "VIDEO_ID_B11_8" },
+      "chapter9": { "title": "Biomolecules", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo109.pdf", "videoId": "VIDEO_ID_B11_9" },
+      "chapter10": { "title": "Cell Cycle and Cell Division", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo110.pdf", "videoId": "VIDEO_ID_B11_10" },
+      "chapter11": { "title": "Transport in Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo111.pdf", "videoId": "VIDEO_ID_B11_11" },
+      "chapter12": { "title": "Mineral Nutrition", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo112.pdf", "videoId": "VIDEO_ID_B11_12" },
+      "chapter13": { "title": "Photosynthesis in Higher Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo113.pdf", "videoId": "VIDEO_ID_B11_13" },
+      "chapter14": { "title": "Respiration in Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo114.pdf", "videoId": "VIDEO_ID_B11_14" },
+      "chapter15": { "title": "Plant Growth and Development", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo115.pdf", "videoId": "VIDEO_ID_B11_15" },
+      "chapter16": { "title": "Digestion and Absorption", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo116.pdf", "videoId": "VIDEO_ID_B11_16" },
+      "chapter17": { "title": "Breathing and Exchange of Gases", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo117.pdf", "videoId": "VIDEO_ID_B11_17" },
+      "chapter18": { "title": "Body Fluids and Circulation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo118.pdf", "videoId": "VIDEO_ID_B11_18" },
+      "chapter19": { "title": "Excretory Products and Their Elimination", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo119.pdf", "videoId": "VIDEO_ID_B11_19" },
+      "chapter20": { "title": "Locomotion and Movement", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo120.pdf", "videoId": "VIDEO_ID_B11_20" },
+      "chapter21": { "title": "Neural Control and Coordination", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo121.pdf", "videoId": "VIDEO_ID_B11_21" },
+      "chapter22": { "title": "Chemical Coordination and Integration", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebo122.pdf", "videoId": "VIDEO_ID_B11_22" }
+    },
+    "social_science": {
+
+      "history": {
+        "chapter1": {
+          "title": "From the Beginning of Time",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kess101.pdf",
+          "videoId": "VIDEO_ID_HIS11_1"
+        },
+        "chapter2": {
+          "title": "Writing and City Life",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kess102.pdf",
+          "videoId": "VIDEO_ID_HIS11_2"
+        },
+        "chapter3": {
+          "title": "An Empire Across Three Continents",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kess103.pdf",
+          "videoId": "VIDEO_ID_HIS11_3"
+        },
+        "chapter4": {
+          "title": "The Central Islamic Lands",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kess104.pdf",
+          "videoId": "VIDEO_ID_HIS11_4"
+        },
+        "chapter5": {
+          "title": "Nomadic Empires",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kess105.pdf",
+          "videoId": "VIDEO_ID_HIS11_5"
+        }
+      },
+
+      "geography": {
+        "chapter1": {
+          "title": "Geography as a Discipline",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kegs101.pdf",
+          "videoId": "VIDEO_ID_GEO11_1"
+        },
+        "chapter2": {
+          "title": "The Origin and Evolution of the Earth",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kegs102.pdf",
+          "videoId": "VIDEO_ID_GEO11_2"
+        },
+        "chapter3": {
+          "title": "Interior of the Earth",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kegs103.pdf",
+          "videoId": "VIDEO_ID_GEO11_3"
+        },
+        "chapter4": {
+          "title": "Distribution of Oceans and Continents",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kegs104.pdf",
+          "videoId": "VIDEO_ID_GEO11_4"
+        },
+        "chapter5": {
+          "title": "Minerals and Rocks",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kegs105.pdf",
+          "videoId": "VIDEO_ID_GEO11_5"
+        },
+        "chapter6": {
+          "title": "Geomorphic Processes",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kegs106.pdf",
+          "videoId": "VIDEO_ID_GEO11_6"
+        }
+      },
+
+      "political_science": {
+        "chapter1": {
+          "title": "Political Theory: An Introduction",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesp101.pdf",
+          "videoId": "VIDEO_ID_POL11_1"
+        },
+        "chapter2": {
+          "title": "Freedom",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesp102.pdf",
+          "videoId": "VIDEO_ID_POL11_2"
+        },
+        "chapter3": {
+          "title": "Equality",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesp103.pdf",
+          "videoId": "VIDEO_ID_POL11_3"
+        },
+        "chapter4": {
+          "title": "Social Justice",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesp104.pdf",
+          "videoId": "VIDEO_ID_POL11_4"
+        },
+        "chapter5": {
+          "title": "Rights",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesp105.pdf",
+          "videoId": "VIDEO_ID_POL11_5"
+        }
+      },
+
+      "sociology": {
+        "chapter1": {
+          "title": "Sociology and Society",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/keso101.pdf",
+          "videoId": "VIDEO_ID_SOC11_1"
+        },
+        "chapter2": {
+          "title": "Terms, Concepts and Their Use in Sociology",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/keso102.pdf",
+          "videoId": "VIDEO_ID_SOC11_2"
+        },
+        "chapter3": {
+          "title": "Understanding Social Institutions",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/keso103.pdf",
+          "videoId": "VIDEO_ID_SOC11_3"
+        },
+        "chapter4": {
+          "title": "Culture and Socialisation",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/keso104.pdf",
+          "videoId": "VIDEO_ID_SOC11_4"
+        },
+        "chapter5": {
+          "title": "Social Change and Social Order in Rural and Urban Society",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/keso105.pdf",
+          "videoId": "VIDEO_ID_SOC11_5"
+        }
+      }
+
+    },
+    "economics": {
+      "indian_economic_development": {
+        "chapter1": { "title": "Indian Economy on the Eve of Independence", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keec101.pdf", "videoId": "VIDEO_ID_ECO11_1" },
+        "chapter2": { "title": "Indian Economy (1950–1990)", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keec102.pdf", "videoId": "VIDEO_ID_ECO11_2" },
+        "chapter3": { "title": "Liberalisation, Privatisation and Globalisation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keec103.pdf", "videoId": "VIDEO_ID_ECO11_3" },
+        "chapter4": { "title": "Poverty", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keec104.pdf", "videoId": "VIDEO_ID_ECO11_4" },
+        "chapter5": { "title": "Human Capital Formation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/keec105.pdf", "videoId": "VIDEO_ID_ECO11_5" }
+      },
+      "statistics_for_economics": {
+        "chapter1": { "title": "Introduction", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kest101.pdf", "videoId": "VIDEO_ID_STAT11_1" },
+        "chapter2": { "title": "Collection of Data", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kest102.pdf", "videoId": "VIDEO_ID_STAT11_2" },
+        "chapter3": { "title": "Organisation of Data", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kest103.pdf", "videoId": "VIDEO_ID_STAT11_3" },
+        "chapter4": { "title": "Presentation of Data", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kest104.pdf", "videoId": "VIDEO_ID_STAT11_4" },
+        "chapter5": { "title": "Measures of Central Tendency", "pdfUrl": "https://ncert.nic.in/textbook/pdf/kest105.pdf", "videoId": "VIDEO_ID_STAT11_5" }
+      }
+    },
+    "computer_science": {
+      "chapter1": {
+        "title": "Computer Systems",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs101.pdf",
+        "videoId": "VIDEO_ID_CS11_1"
+      },
+      "chapter2": {
+        "title": "Encoding Schemes and Number System",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs102.pdf",
+        "videoId": "VIDEO_ID_CS11_2"
+      },
+      "chapter3": {
+        "title": "Emerging Trends",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs103.pdf",
+        "videoId": "VIDEO_ID_CS11_3"
+      },
+      "chapter4": {
+        "title": "Introduction to Problem Solving",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs104.pdf",
+        "videoId": "VIDEO_ID_CS11_4"
+      },
+      "chapter5": {
+        "title": "Getting Started with Python",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs105.pdf",
+        "videoId": "VIDEO_ID_CS11_5"
+      },
+      "chapter6": {
+        "title": "Python Fundamentals",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs106.pdf",
+        "videoId": "VIDEO_ID_CS11_6"
+      },
+      "chapter7": {
+        "title": "Flow of Control",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs107.pdf",
+        "videoId": "VIDEO_ID_CS11_7"
+      },
+      "chapter8": {
+        "title": "Strings in Python",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs108.pdf",
+        "videoId": "VIDEO_ID_CS11_8"
+      },
+      "chapter9": {
+        "title": "Lists in Python",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs109.pdf",
+        "videoId": "VIDEO_ID_CS11_9"
+      },
+      "chapter10": {
+        "title": "Tuples and Dictionaries",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kecs110.pdf",
+        "videoId": "VIDEO_ID_CS11_10"
+      }
+    },
+    "informatics_practices": {
+      "chapter1": {
+        "title": "Introduction to Computer System",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/keip101.pdf",
+        "videoId": "VIDEO_ID_IP11_1"
+      },
+      "chapter2": {
+        "title": "Introduction to Python",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/keip102.pdf",
+        "videoId": "VIDEO_ID_IP11_2"
+      },
+      "chapter3": {
+        "title": "Data Handling",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/keip103.pdf",
+        "videoId": "VIDEO_ID_IP11_3"
+      },
+      "chapter4": {
+        "title": "Flow of Control",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/keip104.pdf",
+        "videoId": "VIDEO_ID_IP11_4"
+      },
+      "chapter5": {
+        "title": "Functions",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/keip105.pdf",
+        "videoId": "VIDEO_ID_IP11_5"
+      },
+      "chapter6": {
+        "title": "Introduction to Pandas",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/keip106.pdf",
+        "videoId": "VIDEO_ID_IP11_6"
+      }
+    },
+    "sanskrit": {
+      "chapter1": {
+        "title": "संस्कृत भाषा एवं साहित्य",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesk101.pdf",
+        "videoId": "VIDEO_ID_SANS11_1"
+      },
+      "chapter2": {
+        "title": "सुभाषितानि",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesk102.pdf",
+        "videoId": "VIDEO_ID_SANS11_2"
+      },
+      "chapter3": {
+        "title": "महाकाव्य परिचय",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesk103.pdf",
+        "videoId": "VIDEO_ID_SANS11_3"
+      },
+      "chapter4": {
+        "title": "नाटक एवं कथा",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/kesk104.pdf",
+        "videoId": "VIDEO_ID_SANS11_4"
+      }
+    }
+  },
+
+
+
+
+  
+  "class12": {
+    "english": {
+      "flamingo": {
+        "chapter1": { "title": "The Last Lesson", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl101.pdf", "videoId": "VIDEO_ID_E12_1" },
+        "chapter2": { "title": "Lost Spring", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl102.pdf", "videoId": "VIDEO_ID_E12_2" },
+        "chapter3": { "title": "Deep Water", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl103.pdf", "videoId": "VIDEO_ID_E12_3" },
+        "chapter4": { "title": "The Rattrap", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl104.pdf", "videoId": "VIDEO_ID_E12_4" },
+        "chapter5": { "title": "Indigo", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl105.pdf", "videoId": "VIDEO_ID_E12_5" },
+        "chapter6": { "title": "Poets and Pancakes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl106.pdf", "videoId": "VIDEO_ID_E12_6" },
+        "chapter7": { "title": "The Interview", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl107.pdf", "videoId": "VIDEO_ID_E12_7" },
+        "chapter8": { "title": "Going Places", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl108.pdf", "videoId": "VIDEO_ID_E12_8" }
+      },
+      "vistas": {
+        "chapter1": { "title": "The Third Level", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt101.pdf", "videoId": "VIDEO_ID_E12_V1" },
+        "chapter2": { "title": "The Tiger King", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt102.pdf", "videoId": "VIDEO_ID_E12_V2" },
+        "chapter3": { "title": "Journey to the End of the Earth", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt103.pdf", "videoId": "VIDEO_ID_E12_V3" },
+        "chapter4": { "title": "The Enemy", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt104.pdf", "videoId": "VIDEO_ID_E12_V4" },
+        "chapter5": { "title": "Should Wizard Hit Mommy?", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt105.pdf", "videoId": "VIDEO_ID_E12_V5" },
+        "chapter6": { "title": "On the Face of It", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt106.pdf", "videoId": "VIDEO_ID_E12_V6" },
+        "chapter7": { "title": "Evans Tries an O-Level", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt107.pdf", "videoId": "VIDEO_ID_E12_V7" },
+        "chapter8": { "title": "Memories of Childhood", "pdfUrl": "https://ncert.nic.in/textbook/pdf/levt108.pdf", "videoId": "VIDEO_ID_E12_V8" }
+      }
+    },
+    "hindi": {
+
+      "aaroh": {
+        "chapter1": {
+          "title": "कबीर",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhha101.pdf",
+          "videoId": "VIDEO_ID_HIN12_A1"
+        },
+        "chapter2": {
+          "title": "मीरा",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhha102.pdf",
+          "videoId": "VIDEO_ID_HIN12_A2"
+        },
+        "chapter3": {
+          "title": "भक्ति आंदोलन",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhha103.pdf",
+          "videoId": "VIDEO_ID_HIN12_A3"
+        },
+        "chapter4": {
+          "title": "कविता के प्रश्न",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhha104.pdf",
+          "videoId": "VIDEO_ID_HIN12_A4"
+        },
+        "chapter5": {
+          "title": "पतंग",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhha105.pdf",
+          "videoId": "VIDEO_ID_HIN12_A5"
+        },
+        "chapter6": {
+          "title": "आरोह – गद्य",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhha106.pdf",
+          "videoId": "VIDEO_ID_HIN12_A6"
+        }
+      },
+
+      "vitan": {
+        "chapter1": {
+          "title": "सिल्वर वैडिंग",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhhv101.pdf",
+          "videoId": "VIDEO_ID_HIN12_V1"
+        },
+        "chapter2": {
+          "title": "जूझ",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhhv102.pdf",
+          "videoId": "VIDEO_ID_HIN12_V2"
+        },
+        "chapter3": {
+          "title": "अतीत में दबे पाँव",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhhv103.pdf",
+          "videoId": "VIDEO_ID_HIN12_V3"
+        },
+        "chapter4": {
+          "title": "डायरी के पन्ने",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lhhv104.pdf",
+          "videoId": "VIDEO_ID_HIN12_V4"
+        }
+      }
+
+    },
+    "maths": {
+      "chapter1": { "title": "Relations and Functions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh101.pdf", "videoId": "VIDEO_ID_M12_1" },
+      "chapter2": { "title": "Inverse Trigonometric Functions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh102.pdf", "videoId": "VIDEO_ID_M12_2" },
+      "chapter3": { "title": "Matrices", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh103.pdf", "videoId": "VIDEO_ID_M12_3" },
+      "chapter4": { "title": "Determinants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh104.pdf", "videoId": "VIDEO_ID_M12_4" },
+      "chapter5": { "title": "Continuity and Differentiability", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh105.pdf", "videoId": "VIDEO_ID_M12_5" },
+      "chapter6": { "title": "Applications of Derivatives", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh106.pdf", "videoId": "VIDEO_ID_M12_6" },
+      "chapter7": { "title": "Integrals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh107.pdf", "videoId": "VIDEO_ID_M12_7" },
+      "chapter8": { "title": "Applications of Integrals", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh108.pdf", "videoId": "VIDEO_ID_M12_8" },
+      "chapter9": { "title": "Differential Equations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh109.pdf", "videoId": "VIDEO_ID_M12_9" },
+      "chapter10": { "title": "Vector Algebra", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh110.pdf", "videoId": "VIDEO_ID_M12_10" },
+      "chapter11": { "title": "Three Dimensional Geometry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh111.pdf", "videoId": "VIDEO_ID_M12_11" },
+      "chapter12": { "title": "Linear Programming", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh112.pdf", "videoId": "VIDEO_ID_M12_12" },
+      "chapter13": { "title": "Probability", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh113.pdf", "videoId": "VIDEO_ID_M12_13" }
+    },
+    "physics": {
+      "chapter1": { "title": "Electric Charges and Fields", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph101.pdf", "videoId": "VIDEO_ID_P12_1" },
+      "chapter2": { "title": "Electrostatic Potential and Capacitance", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph102.pdf", "videoId": "VIDEO_ID_P12_2" },
+      "chapter3": { "title": "Current Electricity", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph103.pdf", "videoId": "VIDEO_ID_P12_3" },
+      "chapter4": { "title": "Moving Charges and Magnetism", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph104.pdf", "videoId": "VIDEO_ID_P12_4" },
+      "chapter5": { "title": "Magnetism and Matter", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph105.pdf", "videoId": "VIDEO_ID_P12_5" },
+      "chapter6": { "title": "Electromagnetic Induction", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph106.pdf", "videoId": "VIDEO_ID_P12_6" },
+      "chapter7": { "title": "Alternating Current", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph107.pdf", "videoId": "VIDEO_ID_P12_7" },
+      "chapter8": { "title": "Electromagnetic Waves", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph108.pdf", "videoId": "VIDEO_ID_P12_8" },
+      "chapter9": { "title": "Ray Optics and Optical Instruments", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph109.pdf", "videoId": "VIDEO_ID_P12_9" },
+      "chapter10": { "title": "Wave Optics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph110.pdf", "videoId": "VIDEO_ID_P12_10" },
+      "chapter11": { "title": "Dual Nature of Radiation and Matter", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph111.pdf", "videoId": "VIDEO_ID_P12_11" },
+      "chapter12": { "title": "Atoms", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph112.pdf", "videoId": "VIDEO_ID_P12_12" },
+      "chapter13": { "title": "Nuclei", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph113.pdf", "videoId": "VIDEO_ID_P12_13" },
+      "chapter14": { "title": "Semiconductor Electronics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph114.pdf", "videoId": "VIDEO_ID_P12_14" }
+    },
+    "chemistry": {
+      "chapter1": { "title": "Solid State", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech101.pdf", "videoId": "VIDEO_ID_C12_1" },
+      "chapter2": { "title": "Solutions", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech102.pdf", "videoId": "VIDEO_ID_C12_2" },
+      "chapter3": { "title": "Electrochemistry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech103.pdf", "videoId": "VIDEO_ID_C12_3" },
+      "chapter4": { "title": "Chemical Kinetics", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech104.pdf", "videoId": "VIDEO_ID_C12_4" },
+      "chapter5": { "title": "Surface Chemistry", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech105.pdf", "videoId": "VIDEO_ID_C12_5" },
+      "chapter6": { "title": "General Principles and Processes of Isolation of Elements", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech106.pdf", "videoId": "VIDEO_ID_C12_6" },
+      "chapter7": { "title": "The p-Block Elements", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech107.pdf", "videoId": "VIDEO_ID_C12_7" },
+      "chapter8": { "title": "The d and f Block Elements", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech108.pdf", "videoId": "VIDEO_ID_C12_8" },
+      "chapter9": { "title": "Coordination Compounds", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech109.pdf", "videoId": "VIDEO_ID_C12_9" },
+      "chapter10": { "title": "Haloalkanes and Haloarenes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech110.pdf", "videoId": "VIDEO_ID_C12_10" },
+      "chapter11": { "title": "Alcohols, Phenols and Ethers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech111.pdf", "videoId": "VIDEO_ID_C12_11" },
+      "chapter12": { "title": "Aldehydes, Ketones and Carboxylic Acids", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech112.pdf", "videoId": "VIDEO_ID_C12_12" },
+      "chapter13": { "title": "Amines", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech113.pdf", "videoId": "VIDEO_ID_C12_13" },
+      "chapter14": { "title": "Biomolecules", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech114.pdf", "videoId": "VIDEO_ID_C12_14" },
+      "chapter15": { "title": "Polymers", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech115.pdf", "videoId": "VIDEO_ID_C12_15" },
+      "chapter16": { "title": "Chemistry in Everyday Life", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech116.pdf", "videoId": "VIDEO_ID_C12_16" }
+    },
+    "biology": {
+      "chapter1": { "title": "Reproduction in Organisms", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo101.pdf", "videoId": "VIDEO_ID_B12_1" },
+      "chapter2": { "title": "Sexual Reproduction in Flowering Plants", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo102.pdf", "videoId": "VIDEO_ID_B12_2" },
+      "chapter3": { "title": "Human Reproduction", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo103.pdf", "videoId": "VIDEO_ID_B12_3" },
+      "chapter4": { "title": "Reproductive Health", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo104.pdf", "videoId": "VIDEO_ID_B12_4" },
+      "chapter5": { "title": "Principles of Inheritance and Variation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo105.pdf", "videoId": "VIDEO_ID_B12_5" },
+      "chapter6": { "title": "Molecular Basis of Inheritance", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo106.pdf", "videoId": "VIDEO_ID_B12_6" },
+      "chapter7": { "title": "Evolution", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo107.pdf", "videoId": "VIDEO_ID_B12_7" },
+      "chapter8": { "title": "Human Health and Disease", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo108.pdf", "videoId": "VIDEO_ID_B12_8" },
+      "chapter9": { "title": "Strategies for Enhancement in Food Production", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo109.pdf", "videoId": "VIDEO_ID_B12_9" },
+      "chapter10": { "title": "Microbes in Human Welfare", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo110.pdf", "videoId": "VIDEO_ID_B12_10" },
+      "chapter11": { "title": "Biotechnology: Principles and Processes", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo111.pdf", "videoId": "VIDEO_ID_B12_11" },
+      "chapter12": { "title": "Biotechnology and Its Applications", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo112.pdf", "videoId": "VIDEO_ID_B12_12" },
+      "chapter13": { "title": "Organisms and Populations", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo113.pdf", "videoId": "VIDEO_ID_B12_13" },
+      "chapter14": { "title": "Ecosystem", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo114.pdf", "videoId": "VIDEO_ID_B12_14" },
+      "chapter15": { "title": "Biodiversity and Conservation", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo115.pdf", "videoId": "VIDEO_ID_B12_15" },
+      "chapter16": { "title": "Environmental Issues", "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo116.pdf", "videoId": "VIDEO_ID_B12_16" }
+    },
+    "economics": {
+      "macroeconomics": {
+        "chapter1": { "title": "National Income and Related Aggregates", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec101.pdf", "videoId": "VIDEO_ID_ECO12_1" },
+        "chapter2": { "title": "Money and Banking", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec102.pdf", "videoId": "VIDEO_ID_ECO12_2" },
+        "chapter3": { "title": "Determination of Income and Employment", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec103.pdf", "videoId": "VIDEO_ID_ECO12_3" },
+        "chapter4": { "title": "Government Budget and the Economy", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec104.pdf", "videoId": "VIDEO_ID_ECO12_4" },
+        "chapter5": { "title": "Balance of Payments", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec105.pdf", "videoId": "VIDEO_ID_ECO12_5" }
+      },
+      "indian_economic_development": {
+        "chapter1": { "title": "Development Experience (1947–90)", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec201.pdf", "videoId": "VIDEO_ID_ECO12_6" },
+        "chapter2": { "title": "Economic Reforms since 1991", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec202.pdf", "videoId": "VIDEO_ID_ECO12_7" },
+        "chapter3": { "title": "Current Challenges Facing the Indian Economy", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec203.pdf", "videoId": "VIDEO_ID_ECO12_8" },
+        "chapter4": { "title": "Development Experience of India – A Comparison", "pdfUrl": "https://ncert.nic.in/textbook/pdf/leec204.pdf", "videoId": "VIDEO_ID_ECO12_9" }
+      }
+    },
+    "social_science": {
+
+      "history": {
+        "chapter1": {
+          "title": "Bricks, Beads and Bones",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs101.pdf",
+          "videoId": "VIDEO_ID_HIS12_1"
+        },
+        "chapter2": {
+          "title": "Kings, Farmers and Towns",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs102.pdf",
+          "videoId": "VIDEO_ID_HIS12_2"
+        },
+        "chapter3": {
+          "title": "Kinship, Caste and Class",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs103.pdf",
+          "videoId": "VIDEO_ID_HIS12_3"
+        },
+        "chapter4": {
+          "title": "Thinkers, Beliefs and Buildings",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs104.pdf",
+          "videoId": "VIDEO_ID_HIS12_4"
+        },
+        "chapter5": {
+          "title": "Through the Eyes of Travellers",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs105.pdf",
+          "videoId": "VIDEO_ID_HIS12_5"
+        },
+        "chapter6": {
+          "title": "Bhakti–Sufi Traditions",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs106.pdf",
+          "videoId": "VIDEO_ID_HIS12_6"
+        },
+        "chapter7": {
+          "title": "An Imperial Capital: Vijayanagara",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs107.pdf",
+          "videoId": "VIDEO_ID_HIS12_7"
+        },
+        "chapter8": {
+          "title": "Peasants, Zamindars and the State",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs108.pdf",
+          "videoId": "VIDEO_ID_HIS12_8"
+        },
+        "chapter9": {
+          "title": "Colonialism and the Countryside",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs109.pdf",
+          "videoId": "VIDEO_ID_HIS12_9"
+        },
+        "chapter10": {
+          "title": "Rebels and the Raj",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs110.pdf",
+          "videoId": "VIDEO_ID_HIS12_10"
+        },
+        "chapter11": {
+          "title": "Mahatma Gandhi and the Nationalist Movement",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs111.pdf",
+          "videoId": "VIDEO_ID_HIS12_11"
+        },
+        "chapter12": {
+          "title": "Framing the Constitution",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/lehs112.pdf",
+          "videoId": "VIDEO_ID_HIS12_12"
+        }
+      },
+
+      "geography": {
+        "chapter1": {
+          "title": "Human Geography: Nature and Scope",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/legy101.pdf",
+          "videoId": "VIDEO_ID_GEO12_1"
+        },
+        "chapter2": {
+          "title": "The World Population",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/legy102.pdf",
+          "videoId": "VIDEO_ID_GEO12_2"
+        },
+        "chapter3": {
+          "title": "Population Composition",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/legy103.pdf",
+          "videoId": "VIDEO_ID_GEO12_3"
+        },
+        "chapter4": {
+          "title": "Human Development",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/legy104.pdf",
+          "videoId": "VIDEO_ID_GEO12_4"
+        },
+        "chapter5": {
+          "title": "Primary Activities",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/legy105.pdf",
+          "videoId": "VIDEO_ID_GEO12_5"
+        },
+        "chapter6": {
+          "title": "Secondary Activities",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/legy106.pdf",
+          "videoId": "VIDEO_ID_GEO12_6"
+        }
+      },
+
+      "political_science": {
+        "chapter1": {
+          "title": "The Cold War Era",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps101.pdf",
+          "videoId": "VIDEO_ID_POL12_1"
+        },
+        "chapter2": {
+          "title": "The End of Bipolarity",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps102.pdf",
+          "videoId": "VIDEO_ID_POL12_2"
+        },
+        "chapter3": {
+          "title": "US Hegemony in World Politics",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps103.pdf",
+          "videoId": "VIDEO_ID_POL12_3"
+        },
+        "chapter4": {
+          "title": "Alternative Centres of Power",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps104.pdf",
+          "videoId": "VIDEO_ID_POL12_4"
+        },
+        "chapter5": {
+          "title": "Contemporary South Asia",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps105.pdf",
+          "videoId": "VIDEO_ID_POL12_5"
+        },
+        "chapter6": {
+          "title": "International Organizations",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps106.pdf",
+          "videoId": "VIDEO_ID_POL12_6"
+        },
+        "chapter7": {
+          "title": "Security in the Contemporary World",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps107.pdf",
+          "videoId": "VIDEO_ID_POL12_7"
+        },
+        "chapter8": {
+          "title": "Environment and Natural Resources",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leps108.pdf",
+          "videoId": "VIDEO_ID_POL12_8"
+        }
+      },
+
+      "sociology": {
+        "chapter1": {
+          "title": "Introducing Indian Society",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leso101.pdf",
+          "videoId": "VIDEO_ID_SOC12_1"
+        },
+        "chapter2": {
+          "title": "Demographic Structure of Indian Society",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leso102.pdf",
+          "videoId": "VIDEO_ID_SOC12_2"
+        },
+        "chapter3": {
+          "title": "Social Institutions",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leso103.pdf",
+          "videoId": "VIDEO_ID_SOC12_3"
+        },
+        "chapter4": {
+          "title": "The Market as a Social Institution",
+          "pdfUrl": "https://ncert.nic.in/textbook/pdf/leso104.pdf",
+          "videoId": "VIDEO_ID_SOC12_4"
+        }
+      }
+
+    },
+
+    "computer_science": {
+      "chapter1": {
+        "title": "Python Revision",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/lecs101.pdf",
+        "videoId": "VIDEO_ID_CS12_1"
+      },
+      "chapter2": {
+        "title": "Data Structures",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/lecs102.pdf",
+        "videoId": "VIDEO_ID_CS12_2"
+      },
+      "chapter3": {
+        "title": "Database Management System",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/lecs103.pdf",
+        "videoId": "VIDEO_ID_CS12_3"
+      }
+    },
+
+    "informatics_practices": {
+      "chapter1": {
+        "title": "Data Handling using Pandas",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/leip101.pdf",
+        "videoId": "VIDEO_ID_IP12_1"
+      },
+      "chapter2": {
+        "title": "Database Concepts",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/leip102.pdf",
+        "videoId": "VIDEO_ID_IP12_2"
+      },
+      "chapter3": {
+        "title": "SQL Queries",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/leip103.pdf",
+        "videoId": "VIDEO_ID_IP12_3"
+      }
+    },
+
+    "sanskrit": {
+      "chapter1": {
+        "title": "संस्कृत साहित्य परिचय",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/lesk101.pdf",
+        "videoId": "VIDEO_ID_SANS12_1"
+      },
+      "chapter2": {
+        "title": "महाकाव्य एवं नाटक",
+        "pdfUrl": "https://ncert.nic.in/textbook/pdf/lesk102.pdf",
+        "videoId": "VIDEO_ID_SANS12_2"
+      }
+    }
+  }
+
+}
