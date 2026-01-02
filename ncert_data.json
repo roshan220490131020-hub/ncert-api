@@ -6,13 +6,13 @@
         "poem": {
           "title": "Ice-cream Man",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen101.pdf",
-          "videoId": "VIDEO_ID_ICECREAM_MAN",
+          "videoId": "ETc1bdM6-CM",
           "solution": "Explanation, theme, and question answers of the poem Ice-cream Man."
         },
         "prose": {
           "title": "Wonderful Waste!",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen101.pdf",
-          "videoId": "VIDEO_ID_WONDERFUL_WASTE",
+          "videoId": "bzDf6PwdqBQ",
           "solution": "Summary, moral, and questions of Wonderful Waste!"
         }
       },
@@ -21,13 +21,13 @@
         "poem": {
           "title": "Teamwork",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen102.pdf",
-          "videoId": "VIDEO_ID_TEAMWORK",
+          "videoId": "OY7Dnbb7HI8",
           "solution": "Explanation of the poem Teamwork with examples."
         },
         "prose": {
           "title": "Flying Together",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen102.pdf",
-          "videoId": "VIDEO_ID_FLYING_TOGETHER",
+          "videoId": "YoKEWQW-G-4",
           "solution": "Story explanation and moral of Flying Together."
         }
       },
@@ -36,13 +36,13 @@
         "poem": {
           "title": "My Shadow",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen103.pdf",
-          "videoId": "VIDEO_ID_MY_SHADOW",
+          "videoId": "2609LzmFWZ8",
           "solution": "Poem meaning and child-friendly explanation."
         },
         "prose": {
           "title": "Robinson Crusoe",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen103.pdf",
-          "videoId": "VIDEO_ID_ROBINSON_CRUSOE",
+          "videoId": "HZjOygl8vRo",
           "solution": "Summary and character explanation of Robinson Crusoe."
         }
       },
@@ -51,13 +51,13 @@
         "poem": {
           "title": "Crying",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen104.pdf",
-          "videoId": "VIDEO_ID_CRYING",
+          "videoId": "ik0Sp8ye9Lk",
           "solution": "Explanation of emotions expressed in the poem Crying."
         },
         "prose": {
           "title": "My Elder Brother",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen104.pdf",
-          "videoId": "VIDEO_ID_MY_ELDER_BROTHER",
+          "videoId": "B2-XpFZILYM",
           "solution": "Story explanation and key lessons."
         }
       },
@@ -66,13 +66,13 @@
         "poem": {
           "title": "The Lazy Frog",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen105.pdf",
-          "videoId": "VIDEO_ID_LAZY_FROG",
+          "videoId": "ZCY0NeGJw_c",
           "solution": "Poem explanation with moral lesson."
         },
         "prose": {
           "title": "Rip Van Winkle",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen105.pdf",
-          "videoId": "VIDEO_ID_RIP_VAN_WINKLE",
+          "videoId": "X7Fw1bPZ9iE",
           "solution": "Story summary and main idea."
         }
       },
@@ -81,13 +81,13 @@
         "poem": {
           "title": "Class Discussion",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen106.pdf",
-          "videoId": "VIDEO_ID_CLASS_DISCUSSION",
+          "videoId": "XAcZRI-j7zM",
           "solution": "Poem explanation and meaning."
         },
         "prose": {
           "title": "The Talkative Barber",
           "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeen106.pdf",
-          "videoId": "VIDEO_ID_TALKATIVE_BARBER",
+          "videoId": "3FvxUetH9OM",
           "solution": "Story explanation and humor elements."
         }
       },
@@ -1448,7 +1448,7 @@
       }
     },
     "hindi": {
-  "kshitij": {
+      "kshitij": {
     "chapter1": {
       "title": "दो बैलों की कथा",
       "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks101.pdf",
