@@ -270,99 +270,99 @@
       "chapter1": {
         "chapterNo": 1,
         "title": "The Fish Tale",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh101.pdf",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/eemh101.pdf",
         "videoId": "4StoAwxJ8T4",
         "solution": "Explanation of numbers using real-life examples."
       },
       "chapter2": {
         "chapterNo": 2,
         "title": "Shapes and Angles",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh102.pdf",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/eemh102.pdf",
         "videoId": "uquTqnkfSnI",
         "solution": "Explanation of basic shapes and angles."
       },
       "chapter3": {
         "chapterNo": 3,
         "title": "How Many Squares?",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh103.pdf",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh103.pdf",
         "videoId": "NfUGjnFoaV4",
         "solution": "Counting squares using logic and patterns."
       },
       "chapter4": {
         "chapterNo": 4,
         "title": "Parts and Wholes",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh104.pdf",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh104.pdf",
         "videoId": "VH11qxCYcsE",
         "solution": "Understanding fractions and parts."
       },
       "chapter5": {
         "chapterNo": 5,
         "title": "Does it Look the Same?",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh105.pdf",
-        "videoId": "VIDEO_ID_LOOK_SAME",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh105.pdf",
+        "videoId": "9kJ2K1dOYiw",
         "solution": "Symmetry and mirror images."
       },
       "chapter6": {
         "chapterNo": 6,
         "title": "Be My Multiple, I'll be Your Factor",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh106.pdf",
-        "videoId": "VIDEO_ID_MULTIPLE",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh106.pdf",
+        "videoId": "_eGHcGm0rhI",
         "solution": "Factors and multiples explained."
       },
       "chapter7": {
         "chapterNo": 7,
         "title": "Can You See the Pattern?",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh107.pdf",
-        "videoId": "VIDEO_ID_PATTERN",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh107.pdf",
+        "videoId": "igZ1NBEg1tc",
         "solution": "Number and shape patterns."
       },
       "chapter8": {
         "chapterNo": 8,
         "title": "Mapping Your Way",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh108.pdf",
-        "videoId": "VIDEO_ID_MAPPING",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh108.pdf",
+        "videoId": "TC8KGo_gZP0",
         "solution": "Maps, directions, and distance."
       },
       "chapter9": {
         "chapterNo": 9,
         "title": "Boxes and Sketches",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh109.pdf",
-        "videoId": "VIDEO_ID_BOXES",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh109.pdf",
+        "videoId": "kxOG7Hp4PkY",
         "solution": "3D objects and drawings."
       },
       "chapter10": {
         "chapterNo": 10,
         "title": "Tenths and Hundredths",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh110.pdf",
-        "videoId": "VIDEO_ID_DECIMALS",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh110.pdf",
+        "videoId": "kZfx0zbwMyo",
         "solution": "Decimals explained clearly."
       },
       "chapter11": {
         "chapterNo": 11,
         "title": "Area and its Boundary",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh111.pdf",
-        "videoId": "VIDEO_ID_AREA",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh111.pdf",
+        "videoId": "5ErI9OjJOrw",
         "solution": "Perimeter and area concepts."
       },
       "chapter12": {
         "chapterNo": 12,
         "title": "Smart Charts",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh112.pdf",
-        "videoId": "VIDEO_ID_CHARTS",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh112.pdf",
+        "videoId": "ri8WDBXJyvY",
         "solution": "Understanding data through charts."
       },
       "chapter13": {
         "chapterNo": 13,
         "title": "Ways to Multiply and Divide",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh113.pdf",
-        "videoId": "VIDEO_ID_MULTIPLY",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh113.pdf",
+        "videoId": "0BIwqXKoRxU",
         "solution": "Easy multiplication and division methods."
       },
       "chapter14": {
         "chapterNo": 14,
         "title": "How Big? How Heavy?",
-        "pdfUrl": "https://ncert.nic.in/textbook/pdf/emmh114.pdf",
-        "videoId": "VIDEO_ID_WEIGHT",
+        "pdfUrl": "https://github.com/roshan220490131020-hub/ncert-api/blob/main/class-5/math/emmh114.pdf",
+        "videoId": "8F8vzBHiDkU",
         "solution": "Measurement of weight and volume."
       }
     },
@@ -371,28 +371,28 @@
         "chapterNo": 1,
         "title": "Super Senses",
         "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeap101.pdf",
-        "videoId": "VIDEO_ID_SUPER_SENSES",
+        "videoId": "8KmsIdFX1r0",
         "solution": "Animals and humans use senses differently."
       },
       "chapter2": {
         "chapterNo": 2,
         "title": "A Snake Charmer’s Story",
         "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeap102.pdf",
-        "videoId": "VIDEO_ID_SNAKE",
+        "videoId": "fvFshLAXK0s",
         "solution": "Life of snake charmers."
       },
       "chapter3": {
         "chapterNo": 3,
         "title": "From Tasting to Digesting",
         "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeap103.pdf",
-        "videoId": "VIDEO_ID_DIGESTING",
+        "videoId": "oeUmUFPUIaw",
         "solution": "Digestive system explained."
       },
       "chapter4": {
         "chapterNo": 4,
         "title": "Mangoes Round the Year",
         "pdfUrl": "https://ncert.nic.in/textbook/pdf/eeap104.pdf",
-        "videoId": "VIDEO_ID_MANGO",
+        "videoId": "_SIn3_6Xl9E",
         "solution": "Food preservation methods."
       },
       "chapter5": {
