@@ -1377,17 +1377,17 @@
   "class9": {
     "english": {
       "beehive": {
-        "chapter1": { "title": "The Fun They Had", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe101.pdf", "videoId": "VIDEO_ID_E9_1", "solution": "Future education concept." },
-        "chapter2": { "title": "The Sound of Music", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe102.pdf", "videoId": "VIDEO_ID_E9_2", "solution": "Evelyn Glennie and Bismillah Khan." },
-        "chapter3": { "title": "The Little Girl", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe103.pdf", "videoId": "VIDEO_ID_E9_3", "solution": "Father–daughter relationship." },
-        "chapter4": { "title": "A Truly Beautiful Mind", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe104.pdf", "videoId": "VIDEO_ID_E9_4", "solution": "Albert Einstein biography." },
-        "chapter5": { "title": "The Snake and the Mirror", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe105.pdf", "videoId": "VIDEO_ID_E9_5", "solution": "Humorous story." },
-        "chapter6": { "title": "My Childhood", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe106.pdf", "videoId": "VIDEO_ID_E9_6", "solution": "A.P.J. Abdul Kalam’s childhood." },
-        "chapter7": { "title": "Packing", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe107.pdf", "videoId": "VIDEO_ID_E9_7", "solution": "Comic narrative." },
-        "chapter8": { "title": "Reach for the Top", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe108.pdf", "videoId": "VIDEO_ID_E9_8", "solution": "Santosh Yadav and Maria Sharapova." },
-        "chapter9": { "title": "The Bond of Love", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe109.pdf", "videoId": "VIDEO_ID_E9_9", "solution": "Human–animal bond." },
-        "chapter10": { "title": "Kathmandu", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe110.pdf", "videoId": "VIDEO_ID_E9_10", "solution": "Travelogue." },
-        "chapter11": { "title": "If I Were You", "pdfUrl": "https://ncert.nic.in/textbook/pdf/iebe111.pdf", "videoId": "VIDEO_ID_E9_11", "solution": "Play based on presence of mind." }
+        "chapter1": { "title": "The Fun They Had", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_1.pdf", "videoId": "VIDEO_ID_E9_1", "solution": "Future education concept." },
+        "chapter2": { "title": "The Sound of Music", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_2.pdf", "videoId": "VIDEO_ID_E9_2", "solution": "Evelyn Glennie and Bismillah Khan." },
+        "chapter3": { "title": "The Little Girl", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_3.pdf", "videoId": "VIDEO_ID_E9_3", "solution": "Father–daughter relationship." },
+        "chapter4": { "title": "A Truly Beautiful Mind", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_4.pdf", "videoId": "VIDEO_ID_E9_4", "solution": "Albert Einstein biography." },
+        "chapter5": { "title": "The Snake and the Mirror", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_5.pdf", "videoId": "VIDEO_ID_E9_5", "solution": "Humorous story." },
+        "chapter6": { "title": "My Childhood", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_6.pdf", "videoId": "VIDEO_ID_E9_6", "solution": "A.P.J. Abdul Kalam’s childhood." },
+        "chapter7": { "title": "Packing", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_7.pdf", "videoId": "VIDEO_ID_E9_7", "solution": "Comic narrative." },
+        "chapter8": { "title": "Reach for the Top", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_8.pdf", "videoId": "VIDEO_ID_E9_8", "solution": "Santosh Yadav and Maria Sharapova." },
+        "chapter9": { "title": "The Bond of Love", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_9.pdf", "videoId": "VIDEO_ID_E9_9", "solution": "Human–animal bond." },
+        "chapter10": { "title": "Kathmandu", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_10.pdf", "videoId": "VIDEO_ID_E9_10", "solution": "Travelogue." },
+        "chapter11": { "title": "If I Were You", "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/beehive/Class_9_beehive_chapter_11.pdf", "videoId": "VIDEO_ID_E9_11", "solution": "Play based on presence of mind." }
       },
 
       "moments": {
@@ -1406,17 +1406,17 @@
       "kshitij": {
     "chapter1": {
       "title": "दो बैलों की कथा",
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks101.pdf",
+      "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/kshitij/Class_9_Hindi_Kshitij_chapter_1.pdf",
       "videoId": "VIDEO_ID_HIN9_K1"
     },
     "chapter2": {
       "title": "ल्हासा की ओर",
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks102.pdf",
+      "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/kshitij/Class_9_Hindi_Kshitij_chapter_2.pdf",
       "videoId": "VIDEO_ID_HIN9_K2"
     },
     "chapter3": {
       "title": "उपभोक्तावाद की संस्कृति",
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/ihks103.pdf",
+      "pdfUrl": "https://roshan220490131020-hub.github.io/ncert-api/class-9/kshitij/Class_9_Hindi_Kshitij_chapter_3.pdf",
       "videoId": "VIDEO_ID_HIN9_K3"
     },
     "chapter4": {
